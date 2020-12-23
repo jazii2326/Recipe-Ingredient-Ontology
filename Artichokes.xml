@@ -1,0 +1,2450 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">"
+<Styles> 
+ <Style ss:ID="Default" ss:Name="Normal"> 
+ <Alignment ss:Vertical="Bottom"/> 
+ <Borders/> 
+ <Font ss:FontName="Arial" x:Family="Swiss"/>
+ <Interior/>
+<NumberFormat/> 
+ <Protection/> 
+ </Style> 
+ <Style ss:ID="s62"> 
+ <Alignment ss:Vertical="Bottom"/> 
+ <Borders/> 
+ <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/></Style> 
+<Style ss:ID="s66"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/></Borders><Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1" ss:Size="10"/><Interior ss:Color="#DCE6F1" ss:Pattern="Solid"/></Style></Styles><Worksheet ss:Name="Artichokes">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Artichokes ID</Column>
+<Column ss:Width="100">name</Column>
+<Column ss:Width="100">url</Column>
+<Column ss:Width="100">image</Column>
+<Column ss:Width="100">recipeYield</Column>
+<Column ss:Width="100">calories</Column>
+<Column ss:Width="100">proteinContent</Column>
+<Column ss:Width="100">carbohydrateContent</Column>
+<Column ss:Width="100">fatContent</Column>
+<Column ss:Width="100">saturatedFatContent</Column>
+<Column ss:Width="100">sodiumContent</Column>
+<Column ss:Width="100">cholesterolContent</Column>
+<Column ss:Width="100">dietaryFiberCotent</Column>
+<Column ss:Width="100">potassiumContent</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Artichokes ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">name</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">url</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">image</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">recipeYield</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">calories</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">proteinContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">carbohydrateContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">fatContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">saturatedFatContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">sodiumContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">cholesterolContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">dietaryFiberCotent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">potassiumContent</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">Stuffed Artichoke with Oriental Noodle Salad</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/stuffed-artichoke-with-oriental-noodle-salad</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">Artichoke Benedict</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/artichoke-benedict</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/20190314/wp-content/uploads/2012/10/artichoke-benedict.jpg</Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Artichoke Frittata</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/artichoke-frittata</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/20190314/wp-content/uploads/2012/11/artichoke-frittata.jpg</Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">Artichoke Gondolas</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/artichoke-gondolas</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">2</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">Artichoke Hors D’oeuvre with Sweet Anise and Chick Pea Dip</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/artichoke-hors-doeuvre-with-sweet-anise-and-chick-pea-dip</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/caab-wp/wp-content/uploads/2012/11/hors-doeuvre.jpg</Data></Cell>
+<Cell><Data ss:Type="String">24</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Artichoke Napoleon</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/artichoke-napoleon</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/20190314/wp-content/uploads/2012/11/artichoke-napoleon.jpg</Data></Cell>
+<Cell><Data ss:Type="String">24</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">Artichoke Roman Style</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/artichoke-roman-style</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/20190314/wp-content/uploads/2012/11/artichoke-roman.jpg</Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Artichoke/Vegetable Stir-Fry</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/artichokevegetable-stir-fry</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/20190314/wp-content/uploads/2012/12/artichoke-vegetable-stir-fry.jpg</Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">Baby Artichoke Calvados Saute</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/baby-artichoke-calvados-saute</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/20190314/wp-content/uploads/2012/11/calvados-style.jpg</Data></Cell>
+<Cell><Data ss:Type="String">24</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Baby Artichoke Chicken Saut&#233;</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/baby-artichoke-chicken-saute</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/20190314/wp-content/uploads/2012/11/chicken-saute.jpg</Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">be67a341-4cae-4c4f-b7fd-b1697d14fb08</Data></Cell>
+<Cell><Data ss:Type="String">Baby Artichokes, Ham, &amp; Fettuccini</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/baby-artichokes-ham-fettuccini</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/20190314/wp-content/uploads/2012/11/artichoke-fettuchini-ham.jpg</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">Baked Artichoke Casserole</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/baked-artichocke-casserole</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/20190314/wp-content/uploads/2012/11/baked-artichoke-casserole.jpg</Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">Couscous-Stuffed Artichokes</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/couscous-stuffed-artichokes</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/caab-wp/wp-content/uploads/2012/11/couscous-stuffed-artichokes.jpg</Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String">385</Data></Cell>
+<Cell><Data ss:Type="String">13.1</Data></Cell>
+<Cell><Data ss:Type="String">53.7</Data></Cell>
+<Cell><Data ss:Type="String">14.5</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">632</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">5.1</Data></Cell>
+<Cell><Data ss:Type="String">576</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">Focaccia-Stuffed Artichokes</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/focaccia-stuffed-artichokes</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/20190314/wp-content/uploads/2012/11/focaccia-stuffed-artichoke.jpg</Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">French Fried Artichoke Hearts</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/french-fried-artichoke-hearts</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/20190314/wp-content/uploads/2012/11/french-fried-hearts.jpg</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">Grilled Artichokes</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/grilled-artichokes</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/20190314/wp-content/uploads/2012/11/grilled-artichoke.jpg</Data></Cell>
+<Cell><Data ss:Type="String">8</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">Lemon Artichoke Soup</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/lemon-artichoke-soup</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/20190314/wp-content/uploads/2012/11/lemon-soup.jpg</Data></Cell>
+<Cell><Data ss:Type="String">24</Data></Cell>
+<Cell><Data ss:Type="String">155</Data></Cell>
+<Cell><Data ss:Type="String">11.8</Data></Cell>
+<Cell><Data ss:Type="String">18.9</Data></Cell>
+<Cell><Data ss:Type="String">4.1</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">894</Data></Cell>
+<Cell><Data ss:Type="String">107</Data></Cell>
+<Cell><Data ss:Type="String">3.1</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">Patio Artichoke Supper</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/patio-artichoke-supper</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/20190314/wp-content/uploads/2012/11/patio-artichoke.jpg</Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">Artichoke and Roasted Red Pepper Salad with Roasted Red Pepper Dressing</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/recipes-and-such/recipes/artichoke-and-roasted-red-pepper-salad-with-roasted-red-pepper-dressing</Data></Cell>
+<Cell><Data ss:Type="String">http://artichokes.org/20190314/wp-content/uploads/2012/11/artichoke-red-pepper.jpg</Data></Cell>
+<Cell><Data ss:Type="String">8</Data></Cell>
+<Cell><Data ss:Type="String">88</Data></Cell>
+<Cell><Data ss:Type="String">4.7</Data></Cell>
+<Cell><Data ss:Type="String">19</Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">2</Data></Cell>
+<Cell><Data ss:Type="String">189</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">5</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="recipeInstructions">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Artichokes ID</Column>
+<Column ss:Width="100">step</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Artichokes ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">step</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">Halve artichokes lengthwise. Remove and discard center petals and fizzy center; set artichokes aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">Cook pasta until done but slightly firm, rinse and set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">In a medium bowl, whisk together dressing ingredients.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">In a large bowl combine pasta, cucumber, carrots, radishes, green onions, and snow peas.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">Toss noodle mixture with HALF of the dressing; reserve the remaining half.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">Arrange two artichoke halves on each plate. Spoon noodles into halves.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">Use reserve dressing as dip for artichoke leaves. Serve immediately.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">Prepare and cook artichokes as directed for Whole Artichokes (see Basic Preparation).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">Brown Canadian bacon slices in skillet.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">Poach eggs in boiling, salted water.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">Spread leaves of artichoke open like flower petals.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">Remove center petals and fuzzy centers from artichokes and discard.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">Place bacon slices into artichoke centers, covering bottom, and top with poached eggs.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">Spoon on Hollandaise Sauce and serve immediately.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">In small saucepan, heat together egg yolks, water and lemon juice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">Cook over very low heat, stirring constantly, until yolk mixture bubbles at edges.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">Stir in butter, 1 piece at a time, until melted and sauce is thickened.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">Stir paprika, red pepper and salt to taste.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">Remove from heat. Serve warm.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">Cover and chill if not used immediately.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Prepare artichokes: bend back outer petals until they snap off easily near base; continue to snap off petals until leaves are half green at top and half yellow. Slice off green portion of leaves.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Cut the stem level with the base and trim any remaining dark green from the base then cut artichokes in half.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Cut out any purple or pink inner leaves. If the interior is white, the entire artichoke is edible.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">In a large pan bring water, lemon juice, carrot, celery and peppercorns to a boil.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Add artichokes and cook until tender, about 7 to 10 minutes, remove artichokes from liquid and cool.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Cook pasta in boiling water until al dente; rinse in cold water and drain.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Toss with 1 tablespoon of olive oil; set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Beat eggs with heavy cream, Parmesan cheese, basil, garlic, salt and pepper. Stir in cooked artichokes, pasta, tomato and saut&#233;ed mushrooms.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Heat remaining 2 tablespoons olive oil in large skillet. Pour in egg mixture. Cook on one side until golden brown and turn to brown second side.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Cut into 4 wedges. Garnish with fresh herbs, as desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Prepare artichokes: bend back outer petals until they snap off easily near base; continue to snap off petals until leaves are half green at top and half yellow. Slice off green portion of leaves.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Cut the stem level with the base and trim any remaining dark green from the base then cut artichokes in half.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Cut out any purple or pink inner leaves. If the interior is white, the entire artichoke is edible.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">In a large pan bring water, lemon juice, carrot, celery and peppercorns to a boil.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Add artichokes and cook until tender, about 7 to 10 minutes, remove artichokes from liquid and cool.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Cook pasta in boiling water until al dente; rinse in cold water and drain.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Toss with 1 tablespoon of olive oil; set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Beat eggs with heavy cream, Parmesan cheese, basil, garlic, salt and pepper. Stir in cooked artichokes, pasta, tomato and saut&#233;ed mushrooms.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Heat remaining 2 tablespoons olive oil in large skillet. Pour in egg mixture. Cook on one side until golden brown and turn to brown second side.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">Cut into 4 wedges. Garnish with fresh herbs, as desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">Halve artichokes lengthwise. Remove and discard center petals and fuzzy center. Remove outer leaves of artichokes and reserve. Trim out hearts and chop finely; set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">Pour boiling water over tomatoes and let stand for 3 minutes until softened; drain and set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">Simmer eggplant in chicken broth for 10 minutes; drain well.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">In blender or food processor, place tomatoes, drained eggplant, onion, herbs, garlic, salt and pepper. Cover and process until nearly smooth.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">Stir in chopped artichoke hearts.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">Halve artichokes lengthwise. Remove and discard center petals and fuzzy center. Remove outer leaves of artichokes and reserve. Trim out hearts and chop finely; set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">Pour boiling water over tomatoes and let stand for 3 minutes until softened; drain and set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">Simmer eggplant in chicken broth for 10 minutes; drain well.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">In blender or food processor, place tomatoes, drained eggplant, onion, herbs, garlic, salt and pepper. Cover and process until nearly smooth.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">Stir in chopped artichoke hearts.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">Arrange artichoke leaves on a serving platter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">Spoon 1 tsp of of the eggplant mixture onto the wide end of artichoke leaves. Garnish with a fresh herb leaf, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">Arrange artichoke leaves on platter, surrounding a bowl of the eggplant mixtures.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">Use artichoke leaves to scoop up individual servings of the dip. Dip can be prepared up to 24 hours ahead and chilled until serving time.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">Cut off stems and snap off first few small leaves. Slice through tips, if desired. Trim dark green from bottom.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">Plunge into acidified water to prevent discoloration.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">Cook by preferred method. Drain.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">Separate leaves from bottom, discarding any purple or thorny center leaves; set aside. Remove fuzzy center from bottom; set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">Trim sweet anise; slice thinly.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">Combine olive oil and lemon juice in a non-reactive pan.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">Braise sweet anise, tightly covered, over low heat, stirring occasionally, until very tender for about 30 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">Arrange prepared artichoke bottoms on top of braising sweet anise.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">Cover; heat artichokes through, about 5 to 10 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">Add a tablespoon of water, as needed to keep food moist.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">Remove artichoke bottoms from pan. Hold warm.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">In a food processor or blender, puree the cooked sweet anise, chick peas, salt, pepper, and cayenne.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">Fill center of cooked artichoke bottom with a few tablespoons of the chick pea puree. Arrange cooked artichoke leaves around center.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Trim all the dark green parts from the artichokes leaving the base and the inner, light green leaves.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Slice top of leaves to about 1/2 inch above base. Cut the stem level with the base.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Cook artichokes in boiling salted water with the lemon and garlic until tender, about 20 to 25 minutes. Remove from water and cool.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Remove tender yellow leaves from artichokes; set aside. Remove and discard any purple leaves or fuzz from the center of artichokes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Slice the artichoke bottoms crosswise into three even disks.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Salt and pepper artichoke disks and the reserved leaves; dredge in flour.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">In skillet, cook artichoke disks and leaves in hot butter or oil until golden brown. Remove from skillet and drain on paper towels.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Place an artichoke disk on plate; top with layer of Mushroom Duxelle.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Add another artichoke disk, another layer of Mushroom Duxelle, and top with final artichoke disk.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Place one stack on each plate for an appetizer or three stacks for main dish.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Surround stack(s) with Tomato Coulis and garnish with browned artichoke leaves, chives, lemon zest and fluted mushroom cap, as desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Finely chop mushrooms with a knife.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Heat butter in large skillet, add shallots and garlic; cook two minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Add chopped mushrooms.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Cook over high heat until dry. Season to taste with salt and pepper. Stir in truffle oil.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">In a nonreactive saucepan, heat butter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Add shallots and garlic; cook two minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Add wine and tomatoes. Boil rapidly until tomatoes are soft.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Puree mixture and press through sieve. Return mixture to saucepan and reduce to approximately 5 cups or until mixture coats a spoon. Season to taste.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">Wash artichokes; remove outer leaves until pale yellow leaves are exposed.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">Cut off top two inches and stems so artichokes will sit upright. Remove fuzzy centers and rub all surfaces with half of lemon.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">Add juice of remaining lemon to water and dip artichokes to preserve green color.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">Mix mint and garlic with &#188; cup olive oil and spoon into hollows of artichokes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">Place in pan just large enough to hold them upright.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">Add water to depth of three inches, remaining olive oil and salt to taste.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">Bring to a boil. Reduce heat, cover and simmer 25 minutes or until just tender. Cooking will vary with size of artichokes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">Remove artichokes, drain and hold warm.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">Reduce cooking liquid until of a syrupy consistency. Spoon sauce over artichokes and serve.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Bend back outer petals of artichokes until they snap off easily near base. Edible  portion of petals should remain on artichoke heart.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Continue to snap off and  discard thick petals until central core of pale green petals is reached.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Cut off stems  and top 2 inches of artichokes; discard.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Trim outer dark green layer from artichoke  bottoms.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Dip or rub all surfaces with lemon juice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Quarter artichokes lengthwise.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Remove center petals and fuzzy centers.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Heat oil in skillet or wok.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Add artichokes,  zucchini and onion; stir-fry until vegetables are tender.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Add tomato, olives, parsley,  oregano, salt and pepper; stir-fry until thoroughly heated.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Sprinkle with Parmesan  cheese before serving.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">Wash artichokes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">Remove outer leaves from baby artichokes until pale green leaves appear; trim stems and top quarter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">Saut&#233; 4 ounces pork scallops in 1 ounce butter until lightly browned; remove from pan and hold warm.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">Place 8 to 10 artichokes halves in pan and saut&#233; 5 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">Add apples and cook until just tender. Add onions, garlic, sage and Calvados; toss together 1 minute.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">Add chicken stock to moisten. Season to taste with salt.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">Arrange pork scallops on heated serving plate with Baby Artichoke Calvados Saut&#233;. Garnish with sage sprig.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Prepare artichokes as directed for Baby Artichokes (see Basic Preparation); cut into halves.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Brown chicken in large skillet with 2 tablespoons oil; remove from pan and set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Add remaining 2 tablespoons oil and saut&#233; onions until tender.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Add artichokes to skillet with garlic, basil and rosemary.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Cook until artichokes are tender, about 5 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Stir in browned chicken and drizzle with chicken broth; heat through.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Salt and pepper to taste, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Serve over hot fettuccine.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Prepare artichokes as directed for Baby Artichokes (see Basic Preparation); cut into halves.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Brown chicken in large skillet with 2 tablespoons oil; remove from pan and set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Add remaining 2 tablespoons oil and saut&#233; onions until tender.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Add artichokes to skillet with garlic, basil and rosemary.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Cook until artichokes are tender, about 5 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Stir in browned chicken and drizzle with chicken broth; heat through.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Salt and pepper to taste, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">Serve over hot fettuccine.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">be67a341-4cae-4c4f-b7fd-b1697d14fb08</Data></Cell>
+<Cell><Data ss:Type="String">Saute ham, shallot and garlic in butter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">be67a341-4cae-4c4f-b7fd-b1697d14fb08</Data></Cell>
+<Cell><Data ss:Type="String">Add chicken stock and bring to a boil.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">be67a341-4cae-4c4f-b7fd-b1697d14fb08</Data></Cell>
+<Cell><Data ss:Type="String">Add fettuccini and toss.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">be67a341-4cae-4c4f-b7fd-b1697d14fb08</Data></Cell>
+<Cell><Data ss:Type="String">Add artichokes; heat through. Sprinkle with Parmesan cheese and olives.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">be67a341-4cae-4c4f-b7fd-b1697d14fb08</Data></Cell>
+<Cell><Data ss:Type="String">After trimming to hearts, cook in boiling water, flavored with lemon juice &amp; garlic until just tender. Let the chokes cool; cut in half or quarters.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">Bend back outer petals of each artichoke until they snap off easily near base, the edible portion of petals should remain on artichoke bottom. Continue to snap off and discard thick petals until central core of pale green petals is reached.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">Trim brown end of stem and cut off top 2-inches of artichokes; discard.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">Pare outer dark green surface layer from artichoke bottoms. Cut out center petals and fuzzy centers.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">Slice artichoke bottoms about &#188;-inch thick. Toss with lemon juice to prevent discoloration; set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">Saut&#233; onions in olive oil 5 to 8 minutes or until tender.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">Spoon evenly into 2-quart oven-proof baking dish. Sprinkle with Italian herb seasoning.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">Arrange tomato slices, artichoke slices and cheese slices on onions, over-lapping slightly in center of dish.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">Cover dish with lid or foil. Bake at 375&#176;F for 40 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">Wash artichokes, cut off stems at base and remove small bottom leaves.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">Stand artichokes upright in deep saucepan large enough to hold snugly. Add 1 teaspoon salt and 2 to 3 inches boiling water.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">Cover and boil gently 35 to 45 minutes, or until base can be pierced easily with fork. (Add a little more boiling water, if needed.)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">Turn artichokes upside down to drain. Carefully remove center petals and fuzzy centers with a spoon and discard. Keep warm or chill as desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">In medium saucepan combine chicken broth, curry powder, cumin and garlic salt; bring to a boil. Remove from heat; stir in couscous and currants. Cover and let stand 5 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">Fluff couscous with a fork. Stir in green onion and almonds. Combine lemon peel, lemon juice and vegetable oil; stir into couscous.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">Gently spread artichoke leaves until center cone of leaves is revealed. Pull out center cone. With a spoon, scrape out any purple-tipped leaves and fuzz.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">Fill centers of artichokes with couscous mixture. Serve with plain yogurt, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">Wash artichokes under cold running water, cut off stems at base and remove small bottom leaves.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">Cut off top quarter of artichokes; discard.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">Spread leaves, remove center leaves and fuzzy centers with a spoon and discard.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">Toss bread crumbs with cheese, olive oil, garlic, parsley, oregano, salt and pepper to taste.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">Stuff bread crumb mixture between leaves of artichokes and fill centers. Place stuffed artichokes in a 9-inch square baking dish.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">Pour 2 cups boiling water around the artichokes. Cover with lid or foil.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">Bake at 350 degrees F. for 40 minutes or until artichokes are tender.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">Remove artichokes from baking dish and place on rack; cool to room temperature.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">Heat shortening to 350&#176;F.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">Mix together the batter mix, baking powder, water and beer.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">Dip artichokes in batter mix, then roll in bread crumbs mixed with Parmesan cheese.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">Fry 2 or 3 minutes or until light golden brown. *For preparation of baby artichokes, see the directions and photos under Basic Preparation. Trim to hearts, quarter, and place in water with lemon juice to prevent browning. Drain well before dipping in batter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">Slice artichoke tops off, crosswise. Trim Stems.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">Boil or steam artichokes until bottoms pierce easily, or a petal pulls off easily.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">Drain artichokes. Cool.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">Cut each artichoke in half lengthwise and scrape out fuzzy center and any purple tipped petals.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">Mix remaining ingredients in a large plastic bag. Place artichokes in the bag and coat all sides of the artichokes. For best flavor marinate in the mixture overnight in the refrigerator but should marinate at least one hour.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">Drain artichokes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">Place cut side down on a grill over a solid bed of medium coals or gas grill on medium. Grill until lightly browned on the cut side, 5 to 7 minutes. Turn artichokes over and drizzle some of the remaining marinade over the artichokes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">Grill until petal tips are lightly charred, 3 to 4 minutes more.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">Serve hot or room temperature</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">In a saucepan, simmer rice in broth about 20 minutes or until tender.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">Remove petals and fuzzy centers from cooked artichokes; cut bottoms into &#188; inch dice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">When rice is done, add diced artichokes to broth.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">Beat together eggs and lemon juice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">Slowly whisk &amp;frac13; of hot broth mixture into egg mixture, then pour back into saucepan, whisking constantly.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">Cook over low heat, stirring constantly, until soup thickens slightly. DO NOT BOIL ONCE EGGS HAVE BEEN ADDED OR SOUP WILL SEPARATE.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">Season with salt and pepper and more lemon juice, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">In a saucepan, simmer rice in broth about 20 minutes or until tender.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">Remove petals and fuzzy centers from cooked artichokes; cut bottoms into &#188; inch dice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">When rice is done, add diced artichokes to broth.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">Beat together eggs and lemon juice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">Slowly whisk &amp;frac13; of hot broth mixture into egg mixture, then pour back into saucepan, whisking constantly.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">Cook over low heat, stirring constantly, until soup thickens slightly. DO NOT BOIL ONCE EGGS HAVE BEEN ADDED OR SOUP WILL SEPARATE.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">Season with salt and pepper and more lemon juice, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">Saute onions, almonds and cilantro in olive oil until almonds are browned</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">Add cooked pasta, turkey, lime juice, salt and pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">Cook and toss until thoroughly heated</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">Carefully remove center cone of artichoke petals and scrape out fuzz with a small spoon (see Basic Preparation)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">Fill artichokes with pasta mixture</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">Spoon fresh salsa on pasta filling and between petals of artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">Trim stems so artichokes stand upright</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">Cut &#188; to ⅓ off tops of artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">Stand prepared artichokes in deep saucepan or pot with 3 inches boiling water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">If desired, oil, lemon juice and seasoning can be added to cooking water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">Cover and boil gently 25 to 40 minutes, depending on size, or until a petal near the center pulls out easily</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">Preparation time: about 45 minutes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">Halve cooked artichokes lengthwise; scoop out center petals and fuzzy centers. Remove outer leaves and reserve to garnish salad; or refrigerate to use for snacks another time. Thinly slice hearts. Cover; set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">Place whole bell peppers under preheated broiler; broil under high heat until charred on all sides, turning frequently with tongs. Carefully remove from oven with tongs; place in a paper bag for 15 minutes to steam skins. Carefully remove peppers from bag; remove seeds and ribs. Strip off skins; slice peppers into julienne strips.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">Prepare Dressing: In blender or food processor container, place &#188; of the bell pepper strips, vinegars, garlic, basil, rosemary and sugar. Cover and process until well blended and nearly smooth.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">Assemble Salads: Arrange reserved cooked artichoke leaves or lettuce leaves on 8 salad plates. Arrange sliced artichoke hearts, remaining &#190; of the bell pepper strips, red onion and olive slices on artichoke or lettuce leaves.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">Spoon dressing over salads.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">Halve cooked artichokes lengthwise; scoop out center petals and fuzzy centers. Remove outer leaves and reserve to garnish salad; or refrigerate to use for snacks another time. Thinly slice hearts. Cover; set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">Place whole bell peppers under preheated broiler; broil under high heat until charred on all sides, turning frequently with tongs. Carefully remove from oven with tongs; place in a paper bag for 15 minutes to steam skins. Carefully remove peppers from bag; remove seeds and ribs. Strip off skins; slice peppers into julienne strips.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">Prepare Dressing: In blender or food processor container, place &#188; of the bell pepper strips, vinegars, garlic, basil, rosemary and sugar. Cover and process until well blended and nearly smooth.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">Assemble Salads: Arrange reserved cooked artichoke leaves or lettuce leaves on 8 salad plates. Arrange sliced artichoke hearts, remaining &#190; of the bell pepper strips, red onion and olive slices on artichoke or lettuce leaves.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">Spoon dressing over salads.</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="recipeIngredients">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Artichokes ID</Column>
+<Column ss:Width="100">recipeIngredient</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Artichokes ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">recipeIngredient</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">4 medium California artichokes, prepared and cooked as directed for whole artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">6 ounces dried Chinese noodles OR spaghettini broken into 2-inch lengths</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">1 cup cucumber, peeled and chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup shredded carrots</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup shredded radishes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup thinly sliced green onion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">4 ounces fresh snow peas, blanched and cut into thin diagonal strips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup unseasoned rice wine vinegar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup fresh orange juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">1 tbsp grated orange peel</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">1&#189; tbsp light soy sauce (reduced sodium)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp sesame oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">4 tsp peanut oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">2 tbsp fresh ginger root, finely minced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">2 tsp minced garlic</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">1/8 tsp cayenne pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">4 medium California artichokes, prepared and cooked as directed for whole artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">6 ounces dried Chinese noodles OR spaghettini broken into 2-inch lengths</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">1 cup cucumber, peeled and chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup shredded carrots</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup shredded radishes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup thinly sliced green onion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">4 ounces fresh snow peas, blanched and cut into thin diagonal strips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup unseasoned rice wine vinegar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup fresh orange juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">1 tbsp grated orange peel</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">1&#189; tbsp light soy sauce (reduced sodium)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp sesame oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">4 tsp peanut oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">2 tbsp fresh ginger root, finely minced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">2 tsp minced garlic</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a8d8a17c-e920-497c-abb2-aac0cef1cb31</Data></Cell>
+<Cell><Data ss:Type="String">1/8 tsp cayenne pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">4 medium California artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">4 slices (&#188;-inch thick) Canadian bacon</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">4 eggs</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">Hollandaise Sauce (for recipe, see right)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">3 egg yolks</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons lemon juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup firm cold butter, cut into eighths</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">1/8 teaspoon paprika</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">38c818c4-222b-43a3-90f6-f3d21c92ddb3</Data></Cell>
+<Cell><Data ss:Type="String">dash ground red pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">8 fresh California baby artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">1 quart water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">1 lemon, juiced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">1 carrot, coarsely chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">1 stalk celery, coarsely chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">4 peppercorns</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">&#189; pound angel hair pasta</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">3 tbsp olive oil, divided</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">3 eggs, beaten</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">2 cups heavy whipping cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup grated Parmesan cheese</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">1 tbsp fresh basil, chopped or 1 tsp dried basil crushed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">1 clove garlic, minced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">salt and pepper, to taste</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">1 medium tomato, chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ce3ecac5-3f51-442e-a09a-1c5546efae3d</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup saut&#233;ed mixed mushrooms</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">4 medium California artichokes, prepared and cooked as directed for whole artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">&#190; cup sun-dried tomaotoes (not packed in oil)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">1 small eggplant, peeled and diced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">2 cups chicken broth</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup chopped onion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">1 tbsp fresh chopped basil OR 1 tsp crushed and dried basil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">1 tbsp fresh chopped oregano OR 1 tsp crushed dried oregano</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">1 to 2 cloves garlic, minced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">&#188; tsp salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ebfdc826-05d9-45ca-b697-9b41ea6a78ba</Data></Cell>
+<Cell><Data ss:Type="String">&#188; tsp pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">24 (#36 count) Medium California artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">1 pound Sweet anise bulb</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">&#190; cup Olive oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">&#190; cup Lemon juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">2 cups Cooked chick peas</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp Salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">&#189; teaspoon Freshly ground pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">318c9469-f92a-4523-86a7-f3e7bdd9f0a0</Data></Cell>
+<Cell><Data ss:Type="String">1/8 tsp Cayenne pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">3 pounds crimini or portobello mushrooms</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">2 ounces clarified butter</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">3 tbsp chopped shallots</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp chopped garlic</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Salt and pepper, to taste</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">1 tbsp white truffle oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">12 cups chopped ripe tomatoes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">2 ounces clarified butter</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup chopped shallots</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp chopped garlic</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">1 cup white wine</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">24 Large California artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">2 Lemons, sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">2 heads Garlic, peeled</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Salt and pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Flour</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Clarified butter or oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">2&#189; pounds Mushroom Duxelle (recipe follows)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">5 cups Tomato Coulis (recipe follows)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Sliced chives and lemon zest for garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">24 Mushroom caps, fluted, optional</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">3 pounds crimini or portobello mushrooms</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">2 ounces clarified butter</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">3 tbsp chopped shallots</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp chopped garlic</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">Salt and pepper, to taste</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">1 tbsp white truffle oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">12 cups chopped ripe tomatoes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">2 ounces clarified butter</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup chopped shallots</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp chopped garlic</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">42913a74-b802-4325-8066-7f2573b1e0cd</Data></Cell>
+<Cell><Data ss:Type="String">1 cup white wine</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">4 (#24 or #18) large size California artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">1 Lemon, cut in half</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">Coarse salt to taste</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup (OR 1 tablespoon dried) Fresh mint leaves, chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">1 tbsp Garlic, minced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup Olive oil, divided</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">4 (#24 or #18) large size California artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">1 Lemon, cut in half</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">Coarse salt to taste</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup (OR 1 tablespoon dried) Fresh mint leaves, chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">1 tbsp Garlic, minced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f0d7b401-d9c1-4503-8e98-77146ee68087</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup Olive oil, divided</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">2 medium California artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Lemon juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons vegetable oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">2 cups sliced zucchini</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup vertically sliced onion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">1 cup cored, seeded, sliced and quartered tomato</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup sliced ripe olives</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons chopped parsley</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">&#189; teaspoon dried oregano, crushed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">&#188; teaspoon salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Pepper, to taste</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Shredded Parmesan cheese (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">2 medium California artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Lemon juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons vegetable oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">2 cups sliced zucchini</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup vertically sliced onion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">1 cup cored, seeded, sliced and quartered tomato</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup sliced ripe olives</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons chopped parsley</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">&#189; teaspoon dried oregano, crushed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">&#188; teaspoon salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Pepper, to taste</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3b24e044-24a7-4cdb-9d96-99e8f4ecf22b</Data></Cell>
+<Cell><Data ss:Type="String">Shredded Parmesan cheese (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">10 pounds California artichokes, small 4 to 5 per serving, depending on size</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">6 pounds Pork loin scallops</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">1 pound, 8 oz Clarified butter</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">3 pounds Apple slices with peel, bite size</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">10 ounces Green onion, thinly sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">2 tbsp Garlic minced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">4 tbsp Sage leaves, chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">12 ounces Calvados or apple brandy</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">Chicken stock as needed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">Salt to taste</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">Sage springs as garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">10 pounds California artichokes, small 4 to 5 per serving, depending on size</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">6 pounds Pork loin scallops</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">1 pound, 8 oz Clarified butter</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">3 pounds Apple slices with peel, bite size</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">10 ounces Green onion, thinly sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">2 tbsp Garlic minced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">4 tbsp Sage leaves, chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">12 ounces Calvados or apple brandy</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">Chicken stock as needed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">Salt to taste</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3524a211-a5f8-457b-acad-ba1126a09e0f</Data></Cell>
+<Cell><Data ss:Type="String">Sage springs as garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">16 California baby artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup olive oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">4 half chicken breasts, skinned, boned and cut into chunks</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">2 red or yellow onions, sliced thick</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">4 cloves garlic minced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon each chopped fresh basil and rosemary or 1 teaspoon each dried basil and rosemary, crushed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup chicken broth</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d58b347-8967-4134-bb5f-80e40a5dc241</Data></Cell>
+<Cell><Data ss:Type="String">1 pound fettuccine, cooked and drained</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">be67a341-4cae-4c4f-b7fd-b1697d14fb08</Data></Cell>
+<Cell><Data ss:Type="String">1 cup smoked ham, julienned</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">be67a341-4cae-4c4f-b7fd-b1697d14fb08</Data></Cell>
+<Cell><Data ss:Type="String">2 tbsp shallot, chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">be67a341-4cae-4c4f-b7fd-b1697d14fb08</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp garlic, chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">be67a341-4cae-4c4f-b7fd-b1697d14fb08</Data></Cell>
+<Cell><Data ss:Type="String">3 tbsp butter</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">be67a341-4cae-4c4f-b7fd-b1697d14fb08</Data></Cell>
+<Cell><Data ss:Type="String">1 cup chicken stock</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">be67a341-4cae-4c4f-b7fd-b1697d14fb08</Data></Cell>
+<Cell><Data ss:Type="String">4 cups hot cooked fettuccini</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">be67a341-4cae-4c4f-b7fd-b1697d14fb08</Data></Cell>
+<Cell><Data ss:Type="String">1&#189; cup cooked baby artichokes, halved or quartered depending upon size*</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">be67a341-4cae-4c4f-b7fd-b1697d14fb08</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup grated Parmesan cheese, or to taste</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">be67a341-4cae-4c4f-b7fd-b1697d14fb08</Data></Cell>
+<Cell><Data ss:Type="String">2 tbsp EACH chopped ripe and green olives</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">2 medium California artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">2 tbsp lemon juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">2 medium onions, sliced thick</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">2 tbsp olive oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp Italian herb seasoning</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">2 medium tomatoes, sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">6 ounces mozzarella or Monterey Jack cheese, sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">2 medium California artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">2 tbsp lemon juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">2 medium onions, sliced thick</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">2 tbsp olive oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp Italian herb seasoning</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">2 medium tomatoes, sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc07753d-1944-4c6e-949c-49ec80242193</Data></Cell>
+<Cell><Data ss:Type="String">6 ounces mozzarella or Monterey Jack cheese, sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">4 large California artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">1&#189; cups chicken broth</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">1 teaspoon curry powder</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">&#190; teaspoon ground cumin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">&#189; teaspoon garlic salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">1 cup instant couscous</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup currants</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup sliced green onion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup toasted slivered almonds, chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">&#189; teaspoon grated lemon peel</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons lemon juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons vegetable oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">Plain lowfat yogurt, optional</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">4 large California artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">1&#189; cups chicken broth</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">1 teaspoon curry powder</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">&#190; teaspoon ground cumin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">&#189; teaspoon garlic salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">1 cup instant couscous</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup currants</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup sliced green onion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup toasted slivered almonds, chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">&#189; teaspoon grated lemon peel</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons lemon juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons vegetable oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">838cf706-c245-428e-afd4-d09fed1e0181</Data></Cell>
+<Cell><Data ss:Type="String">Plain lowfat yogurt, optional</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">4 large California artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">2 cups focaccia or herbed bread crumbs</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup grated Parmesan cheese</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup extra virgin olive oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">2 cloves garlic, minced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">2 tbsp chopped Italian parsley</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">1 tbsp chopped fresh oregano</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">Salt and pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">4 large California artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">2 cups focaccia or herbed bread crumbs</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup grated Parmesan cheese</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup extra virgin olive oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">2 cloves garlic, minced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">2 tbsp chopped Italian parsley</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">1 tbsp chopped fresh oregano</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d925a7cd-00a6-46f2-877b-7571f09b2fbf</Data></Cell>
+<Cell><Data ss:Type="String">Salt and pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">1 cup fish batter mix</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">&#188; teaspoon baking powder</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup beer</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">2 pounds baby artichokes, prepared as directed and quartered*</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">1 cup Italian bread crumbs</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup grated Parmesan cheese</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">solid all vegetable shortening for frying, about 1 inch deep</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">1 cup fish batter mix</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">&#188; teaspoon baking powder</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup beer</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">2 pounds baby artichokes, prepared as directed and quartered*</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">1 cup Italian bread crumbs</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup grated Parmesan cheese</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1c352bf5-660d-4b37-9b12-855fecf99a24</Data></Cell>
+<Cell><Data ss:Type="String">solid all vegetable shortening for frying, about 1 inch deep</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">4 large artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup balsamic vinegar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup soy sauce</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">1 T minced ginger</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup olive oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">4 large artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup balsamic vinegar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup soy sauce</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">1 T minced ginger</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1053aaab-08de-4260-ab23-c6b464186bcc</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup olive oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">1&#189; cups White rice, long grain</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">2 gallons Chicken or vegetable broth</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">24 medium to large California artichokes with stems, cooked</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">16 Eggs</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">1 cup Fresh lemon juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a217e4c2-4870-416d-bac1-f369d927da93</Data></Cell>
+<Cell><Data ss:Type="String">Salt and pepper to taste</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup chopped green onions</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons each slivered almonds and chopped cilantro</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons olive oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">6 ounces angel hair pasta, cooked</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">1&#189; cups diced cooked or smoked turkey</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon lime juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">&#189; teaspoon salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">&#188; teaspoon pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">4 cooked large California artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">Fresh salsa</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup chopped green onions</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons each slivered almonds and chopped cilantro</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons olive oil</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">6 ounces angel hair pasta, cooked</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">1&#189; cups diced cooked or smoked turkey</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon lime juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">&#189; teaspoon salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">&#188; teaspoon pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">4 cooked large California artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7740cde0-9434-4508-8b01-c890e40a67b3</Data></Cell>
+<Cell><Data ss:Type="String">Fresh salsa</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">8 medium California artichokes, prepared and cooked as directed for whole artichokes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">4 red bell peppers</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">Lettuce leaves (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup sliced red onion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">&#189; cup sliced ripe olives</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">1 roasted red bell pepper (reserved from salad preparation)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">⅓ cup balsamic vinegar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">&#188; cup white wine or cider vinegar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">2 cloves garlic, minced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">1 tbsp chopped fresh basil*</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp chopped fresh rosemary*</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">91df07f8-9688-437a-95d7-4d29234b529e</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp sugar</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>
