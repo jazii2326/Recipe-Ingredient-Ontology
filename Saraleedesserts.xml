@@ -1,0 +1,3789 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">"
+<Styles> 
+ <Style ss:ID="Default" ss:Name="Normal"> 
+ <Alignment ss:Vertical="Bottom"/> 
+ <Borders/> 
+ <Font ss:FontName="Arial" x:Family="Swiss"/>
+ <Interior/>
+<NumberFormat/> 
+ <Protection/> 
+ </Style> 
+ <Style ss:ID="s62"> 
+ <Alignment ss:Vertical="Bottom"/> 
+ <Borders/> 
+ <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/></Style> 
+<Style ss:ID="s66"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/></Borders><Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1" ss:Size="10"/><Interior ss:Color="#DCE6F1" ss:Pattern="Solid"/></Style></Styles><Worksheet ss:Name="Saraleedesserts">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Saraleedesserts ID</Column>
+<Column ss:Width="100">product</Column>
+<Column ss:Width="100">ingre</Column>
+<Column ss:Width="100">name</Column>
+<Column ss:Width="100">image</Column>
+<Column ss:Width="100">prepTime</Column>
+<Column ss:Width="100">cookTime</Column>
+<Column ss:Width="100">recipeYield</Column>
+<Column ss:Width="100">aggregateRating</Column>
+<Column ss:Width="100">aggregateCount</Column>
+<Column ss:Width="100">url</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Saraleedesserts ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">product</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">ingre</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">name</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">image</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">prepTime</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">cookTime</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">recipeYield</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">aggregateRating</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">aggregateCount</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">url</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">0e7b3e4b-ebac-48c6-9e68-c793b8baf581</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">White Chocolate Ganache Lemon Glazed Pound Cake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/LemonWhiteChocGanache-1.jpg</Data></Cell>
+<Cell><Data ss:Type="String">20minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">12</Data></Cell>
+<Cell><Data ss:Type="String">3.6</Data></Cell>
+<Cell><Data ss:Type="String">14</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/white-chocolate-ganache-lemon-glazed-pound-cake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">301ad581-c86a-4592-b944-aa997fafe9cb</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Toasted Pound Cake Strawberry Sundae</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-toastedpcstrawberrysundae.jpg</Data></Cell>
+<Cell><Data ss:Type="String">5minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">2</Data></Cell>
+<Cell><Data ss:Type="String">5</Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/toasted-pound-cake-strawberry-sundae/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc0c008e-6dba-4f52-964b-317dd597ae27</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Turtle New York Style Cheesecake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/TURTLE-NEW-YORK-STYLE-CHEESECAKE.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">4.1</Data></Cell>
+<Cell><Data ss:Type="String">16</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/turtle-new-york-style-cheesecake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1cd74e50-8a53-4b3b-a500-65d8ab2480b3</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Pound Cake with Ice Cream, Strawberries and Chocolate Drizzle</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-poundcakewicecream.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">5</Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/pound-cake-ice-cream-strawberries-chocolate-drizzle/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ace913ee-0e95-42d7-8f34-cd58cbf5533d</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Grilled Pound Cake and Berries</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-grilledpcwberries.jpg</Data></Cell>
+<Cell><Data ss:Type="String">5minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String">5</Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/grilled-pound-cake-berries/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2920ef89-1d06-43d2-937c-2823c69857fc</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Easy Pound Cake S’Mores</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-smorespoundcakesquares.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">4.3</Data></Cell>
+<Cell><Data ss:Type="String">3</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/easy-pound-cake-smores/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4b3acd68-e8ca-4f29-af58-b818dc102349</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Easy Caramel Apple Cheesecake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-easycaramelapplecheesecake.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String">3.6</Data></Cell>
+<Cell><Data ss:Type="String">7</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/easy-caramel-apple-cheesecake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cfb6b83d-c792-40f1-ba72-61985bbbbdae</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Grilled Pound Cake S’Mores</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-PoundCakeSmores1.png</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">6minutes </Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/grilled-pound-cake-smores/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa7bd3a0-f53c-4011-9083-a162ef07862f</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Grilled Pound Cake Sundae with Pineapple</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-grilled-pc.png</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/grilled-pound-cake-sundae-pineapple/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9a33770-9bf8-4417-b09a-eab02ae1552a</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Chocolate Raspberry Truffle Bars</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-pc-chocrasptrufflebars.png</Data></Cell>
+<Cell><Data ss:Type="String">15minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">12</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/chocolate-raspberry-truffle-bars/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">399efc5c-f7fe-4317-aa17-0ea5829fbff7</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Chocolate, Peanut Butter and Banana Pound Cake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-pc-chocpbbanana.png</Data></Cell>
+<Cell><Data ss:Type="String">15minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">12</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/chocolate-peanut-butter-banana-pound-cake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8046d553-3d21-43c6-b814-fdb6e5ee88d7</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Cream Filled Coffee Cake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-cake-creamfilledcoffeecake.png</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">15minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/cream-filled-coffee-cake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f173daf-1a65-4b11-aba9-f658c1014ff8</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Peanut Butter Cup Cheesecake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-cc-pbcup.png</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">1minutes </Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String">5</Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/peanut-butter-cup-cheesecake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Pound Cake French Toast</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-pc-poundcakefrenchtoast.png</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String">3.8</Data></Cell>
+<Cell><Data ss:Type="String">20</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/pound-cake-french-toast/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3557a32a-0d59-46ec-a1bd-1f1f82cb0470</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Pound Cake Pops</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-pc-poundcakepops.png</Data></Cell>
+<Cell><Data ss:Type="String">20minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">3.7</Data></Cell>
+<Cell><Data ss:Type="String">3</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/pound-cake-pops/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">079e0217-a86f-4f06-bdd7-78c71701398b</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">S’mores Pound Cake Squares</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-smorespoundcakesquares-1.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">24</Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String">22</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/smores-pound-cake-squares/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Tres Leches Pound Cake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-pc-tresleches.png</Data></Cell>
+<Cell><Data ss:Type="String">20minutes </Data></Cell>
+<Cell><Data ss:Type="String">120minutes </Data></Cell>
+<Cell><Data ss:Type="String">8</Data></Cell>
+<Cell><Data ss:Type="String">2.9</Data></Cell>
+<Cell><Data ss:Type="String">32</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/tres-leches-pound-cake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c8e78b84-fbb6-4f39-ae7f-485cbc5054dd</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Black Forest Pound Cake Bruschetta</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/black_forest_brusc1.jpg</Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String">5</Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/black-forest-pound-cake-bruschetta/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">43e76101-b8c2-409f-b64c-949024b88d56</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Cheesecake Topped with Preserves</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/cheesecake_topped_w_preserves.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">4.7</Data></Cell>
+<Cell><Data ss:Type="String">3</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/cheesecake-topped-preserves/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7c57b15f-e510-4c82-9aa1-eac3587b1f13</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Cheesecake with Strawberries</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/cheesecake_strawberries.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">3</Data></Cell>
+<Cell><Data ss:Type="String">2</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/cheesecake-with-strawberries/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">60cc7b7f-8bb5-41ef-ba0f-8b4a82aa57ef</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Cheesecake with Strawberry Coulis</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/cheesecake_straberry_coulis.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">4.7</Data></Cell>
+<Cell><Data ss:Type="String">3</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/cheesecake-strawberry-coulis/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">089c3d30-bae9-4719-9de8-8099deea0812</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Cherry Pound Cake Parfait</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/cherry_pc_parfait.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">8</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/cherry-pound-cake-parfait/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a97e0538-f41e-4484-b613-cbecd7f55668</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Chocolate Covered Strawberries and Cream Cheesecake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/choc_covered_strawberries_cheesecake.jpg</Data></Cell>
+<Cell><Data ss:Type="String">15minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String">3</Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/chocolate-covered-strawberries-cream-cheesecake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Cinnamon Sticks</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/cinnamon_sticks.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String">5</Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/cinnamon-sticks/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ec1cce-1483-4319-a6a7-cc701519bcc0</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Classic Strawberry Short Cake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/strawberry_shortcake.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String">3</Data></Cell>
+<Cell><Data ss:Type="String">22</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/classic-strawberry-short-cake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">765cd9f1-76cd-4872-8b64-eb7db6e9847f</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Conversation Heart Sandwiches</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/conversation_hearts.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String">5</Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/conversation-heart-sandwiches/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2b8d2027-b893-46e3-b7eb-9b7eb5f9ef2f</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Elegant Chocolate Cheesecake Delight</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/choc_cheesecake_delight.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/elegant-chocolate-cheesecake-delight/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59a10fe7-6db0-43f8-9076-76eb40bf9d3d</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Fun-to-do Fondue</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/chocolate_dipping_sauce.jpg</Data></Cell>
+<Cell><Data ss:Type="String">5minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">3</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/fun-to-do-fondue/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fb0940d3-b3bc-42e9-8544-35eebdce16fc</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Grilled Pound Cake Kabobs with Spiced Rum Sauce</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/grilled_pc_kabobs.jpg</Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/grilled-pound-cake-kabobs-spiced-rum-sauce/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Orange Creamsicle Pound Cake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/orange_creamsible_pc.jpg</Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">4.3</Data></Cell>
+<Cell><Data ss:Type="String">3</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/orange-creamsicle-pound-cake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">53c4e2a2-7110-4938-9adc-40de6746d9a7</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Pound Cake Flower Power</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/pc_flowerpower.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">9</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/pound-cake-flower-power/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">35545539-bf4f-4d75-95eb-96fe94480340</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Pound Cake with Chocolate Almond Sauce</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/pc_choc_almond_sauce.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String">2</Data></Cell>
+<Cell><Data ss:Type="String">2</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/pound-cake-chocolate-almond-sauce/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">54045cda-506d-4a4e-a604-26d88435a3b7</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Packed Paninis</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/power_packed_paninis.jpg</Data></Cell>
+<Cell><Data ss:Type="String">20minutes </Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">8</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/packed-paninis/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a545b87-8cf3-4bf0-97ba-2202e97fe318</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Pumpkin Pie with Pecan Crumble</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/Sara-Lee-Pumpkin_Holiday18_Shot5_Naturalv5.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">75minutes </Data></Cell>
+<Cell><Data ss:Type="String">8</Data></Cell>
+<Cell><Data ss:Type="String">3.4</Data></Cell>
+<Cell><Data ss:Type="String">15</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/pumpkin-pie-pecan-crumble/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c4ef7087-3fc7-4d90-a176-ece1b73b5d2f</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Raspberry Valentines</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/raspberry_valentine.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/raspberry-valentines/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Sweet Life</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/sweet_life_italian_ice_tiramisu.jpg</Data></Cell>
+<Cell><Data ss:Type="String">20minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String">3</Data></Cell>
+<Cell><Data ss:Type="String">3</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/sweet-life-italian-ice-lemon-tiramisu/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Taste-of-the-Islands Banana Foster Trifle</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/banana_foster_trifle.jpg</Data></Cell>
+<Cell><Data ss:Type="String">30minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String">3.5</Data></Cell>
+<Cell><Data ss:Type="String">2</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/taste-islands-banana-foster-trifle/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6a493ad5-123f-4e0e-8472-dc80e28e31e6</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Toasted Pound Cake with Toppers</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/toasted_pc_with_toppers.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/toasted-pound-cake-toppers/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">497a9c76-ad06-42e8-a1fb-5b85daeacd13</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Berry Pound Cake Parfaits</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/berry_pc_parfait.jpg</Data></Cell>
+<Cell><Data ss:Type="String">20minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">8</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/berry-pound-cake-parfaits/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9df574d-0e57-4dd2-bb1d-e0396a86ac04</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Pound Cake with Raspberry Sauce</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/pc_rasp_sauce.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/pound-cake-raspberry-sauce/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">13d687d2-39a2-44f6-9c07-1a0ea4d588b1</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Easy Summer Trifle</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipe-pc-easysummertrifle.png</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">2</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/easy-summer-trifle/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Banana Nut Pound Cake Pudding</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/banana_nut-1.jpg</Data></Cell>
+<Cell><Data ss:Type="String">20minutes </Data></Cell>
+<Cell><Data ss:Type="String">60minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/banana-nut-pound-cake-pudding/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d29cea9e-0800-487e-b431-5dacdacdd4b2</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Pound Cake Ice Cream Sandwiches</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/All-Butter-Pound-Cake.png</Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/pound-cake-ice-cream-sandwiches/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1892e462-1077-4bd5-81ec-eb1388690b5d</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Apple Cider Cheesecake Bites</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2019/12/Cheesecake-Bites-Image-1-e1575932362904.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/apple-cider-cheesecake-bites/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Peanut Butter Cup Pound Cake Whoopie Pies</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipes-PC-PeanutButterCupPoundCakeWhoopiePies.jpg</Data></Cell>
+<Cell><Data ss:Type="String">60minutes </Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">9</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/peanut-butter-cup-pound-cake-whoopie-pies/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">de4815bd-3d70-4e4c-a711-286bf5aeda3d</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Black Forest Trifle</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/All-Butter-Pound-Cake-1.png</Data></Cell>
+<Cell><Data ss:Type="String">15minutes </Data></Cell>
+<Cell><Data ss:Type="String">60minutes </Data></Cell>
+<Cell><Data ss:Type="String">12</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/black-forest-trifle/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">826efeb2-77a3-4a24-860c-7ac7dd64b3d4</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Cheesecake Lollipops</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/Sara-Lee-Cheesecake_Holiday18_Shot3_Naturalv1.jpg</Data></Cell>
+<Cell><Data ss:Type="String">20minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">5</Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/cheesecake-lollipops/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9397c7ea-d6f0-4a3a-9f9e-7ec4f0afed9e</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Cheesecake Parfait</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/11/classic-cheesecake.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/cheesecake-parfait/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">76ad0e0c-be8a-4f5d-807f-a0d55da308f9</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Margarita Cake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipes-PC-MargaritaCake1.jpg</Data></Cell>
+<Cell><Data ss:Type="String">30minutes </Data></Cell>
+<Cell><Data ss:Type="String">180minutes </Data></Cell>
+<Cell><Data ss:Type="String">8</Data></Cell>
+<Cell><Data ss:Type="String">3.6</Data></Cell>
+<Cell><Data ss:Type="String">5</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/margarita-cake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e1351dd2-dd64-4720-a593-b806e57c4693</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Cheesecake Shakes</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/11/classic-cheesecake.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">5</Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/cheesecake-shakes/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e2c9cbe2-e8b7-45a3-9a4f-14ec5965df23</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Salted Caramel Cabinet Pudding</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipes-PC-SaltedCaramelCabinetPudding.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">25minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/salted-caramel-cabinet-pudding/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3fc83b9-4732-48fe-ad7c-937f4b4cbded</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Cheesecake Turtle Sundaes</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/11/classic-cheesecake.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">2.5</Data></Cell>
+<Cell><Data ss:Type="String">2</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/cheesecake-turtle-sundaes/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47ff6e25-0099-4e97-bafd-b7f56110db41</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Danish Dutch Apple Cake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/Butter-Streusel-Coffee-Cake.jpg</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/danish-dutch-apple-cake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f287f9c-869f-4b9a-8df8-1ce9cbb35de6</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Salted Caramel and Chocolate Pretzel Cake Bites</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipes-PC-SaltedCaramelandChocolatePretzelCakeBites.jpg</Data></Cell>
+<Cell><Data ss:Type="String">30minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">20</Data></Cell>
+<Cell><Data ss:Type="String">3.1</Data></Cell>
+<Cell><Data ss:Type="String">33</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/salted-caramel-chocolate-pretzel-cake-bites/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2f0f41f9-6bcd-477e-8f73-92b917e99710</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Oatmeal Chocolate Chip Bars</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/All-Butter-Pound-Cake.png</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">24</Data></Cell>
+<Cell><Data ss:Type="String">3.7</Data></Cell>
+<Cell><Data ss:Type="String">3</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/oatmeal-chocolate-chip-bars/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">26bd1366-c478-4c19-860d-230be6d8961e</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Warm Apple Spice Cake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/All-Butter-Pound-Cake.png</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">15minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/warm-apple-spice-cake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e8398dcf-791f-4724-b341-627718cf8563</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Pound Cake with Yogurt, Granola and Berries</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipes-PC-PoundCakewithYogurtGranolaBerries.jpg</Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String">2</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/pound-cake-yogurt-granola-berries/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">336348dc-ca99-4f30-af5b-d38222fe1fe2</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Toffee Mocha Crunch Cake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipes-PC-CoffeeToffeeMochaCrunchCake.jpg</Data></Cell>
+<Cell><Data ss:Type="String">60minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">8</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/coffee-toffee-mocha-crunch-cake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">818caecb-606f-4977-96da-a014f2be01b3</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Pound Cake “Fries</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/All-Butter-Pound-Cake.png</Data></Cell>
+<Cell><Data ss:Type="String">15minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/pound-cake-fries/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3129be17-7aee-446a-8ef1-5d69485c1a82</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Toasted Pound Cake Apple Pie Sundae</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/All-Butter-Pound-Cake.png</Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/toasted-pound-cake-apple-pie-sundae/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">238d7acd-b0bf-46a1-956e-eb23694e7b4b</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Grilled Pineapple Shortcakes with Salted Caramel Drizzle</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipes-PC-GrilledPineappleShortcakeswithSaltedCaramelDrizzle.jpg</Data></Cell>
+<Cell><Data ss:Type="String">60minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String">3.5</Data></Cell>
+<Cell><Data ss:Type="String">2</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/grilled-pineapple-shortcakes-salted-caramel-drizzle/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">992a252a-6f14-4efa-9782-81ee9dc1f654</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Lemon Pound Cake Crostini</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipes-PC-LemonPoundCakeCrostini.jpg</Data></Cell>
+<Cell><Data ss:Type="String">15minutes </Data></Cell>
+<Cell><Data ss:Type="String">10minutes </Data></Cell>
+<Cell><Data ss:Type="String">10</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/lemon-pound-cake-crostini/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c2beb760-44f1-456b-b491-8922c9e2c371</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Mini Chocolate Caramel Pecan Pound Cake Pies</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipes-PC-MiniChocCaramelPecanPCPies1.jpg</Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String">1.5</Data></Cell>
+<Cell><Data ss:Type="String">2</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/mini-chocolate-caramel-pecan-pound-cake-pies/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">671c424e-d2c1-49c7-a545-45f9034e4e4b</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Pumpkin Cream Layer Cake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipes-PC-PumpkinCreamLayerCake.jpg</Data></Cell>
+<Cell><Data ss:Type="String">20minutes </Data></Cell>
+<Cell><Data ss:Type="String">60minutes </Data></Cell>
+<Cell><Data ss:Type="String">8</Data></Cell>
+<Cell><Data ss:Type="String">3.4</Data></Cell>
+<Cell><Data ss:Type="String">14</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/pumpkin-cream-layer-cake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2504e1ac-97ff-43fb-b012-f9a74504f503</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Lemon Pound Cake Berry Trifle</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipes-PC-LemonPCBerryTrifle.jpg</Data></Cell>
+<Cell><Data ss:Type="String">15minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">8</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/lemon-pound-cake-berry-trifle/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">899ee3b5-fdce-43f3-bbc4-f3e620420092</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Grilled Chocolate Peanut Butter Marshmallow Pound Cake Sandwich</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipes-PC-GrilledChocPBMarshmallowPCSandwich.jpg</Data></Cell>
+<Cell><Data ss:Type="String">5minutes </Data></Cell>
+<Cell><Data ss:Type="String">4minutes </Data></Cell>
+<Cell><Data ss:Type="String">1</Data></Cell>
+<Cell><Data ss:Type="String">4.8</Data></Cell>
+<Cell><Data ss:Type="String">5</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/grilled-chocolate-peanut-butter-marshmallow-pound-cake-sandwich/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a5d3b296-9fda-4a8b-8122-9bebfe43522f</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Chocolate Pound Cake Bites</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipes-PC-ChocPCBites.jpg</Data></Cell>
+<Cell><Data ss:Type="String">30minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String">4.7</Data></Cell>
+<Cell><Data ss:Type="String">3</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/chocolate-pound-cake-bites/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">97d56482-ae50-409e-978c-b96ad6e35945</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Chocolate-Hazelnut Filled Pound Cake</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/Nutella-Filled-Pound-Cake.jpg</Data></Cell>
+<Cell><Data ss:Type="String">20minutes </Data></Cell>
+<Cell><Data ss:Type="String">0minutes </Data></Cell>
+<Cell><Data ss:Type="String">8</Data></Cell>
+<Cell><Data ss:Type="String">3.3</Data></Cell>
+<Cell><Data ss:Type="String">63</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/chocolate-hazelnut-filled-pound-cake/</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">333f7517-cb36-4a78-9738-904397271eca</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">all</Data></Cell>
+<Cell><Data ss:Type="String">Chocolate Coconut Bread Pudding with Almonds</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/wp-content/uploads/2017/10/recipes-PC-ChocCoconutBreadPuddingWAlmonds-1.jpg</Data></Cell>
+<Cell><Data ss:Type="String">20minutes </Data></Cell>
+<Cell><Data ss:Type="String">60minutes </Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String">4.1</Data></Cell>
+<Cell><Data ss:Type="String">12</Data></Cell>
+<Cell><Data ss:Type="String">https://saraleedesserts.com/recipe/chocolate-coconut-bread-pudding-almonds/</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="recipeIngredients">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Saraleedesserts ID</Column>
+<Column ss:Width="100">recipeIngredient</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Saraleedesserts ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">recipeIngredient</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">0e7b3e4b-ebac-48c6-9e68-c793b8baf581</Data></Cell>
+<Cell><Data ss:Type="String">1 frozen Sara Lee&#174; Lemon Pound Cake, thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">0e7b3e4b-ebac-48c6-9e68-c793b8baf581</Data></Cell>
+<Cell><Data ss:Type="String">1 cup (6 ounces) white chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">0e7b3e4b-ebac-48c6-9e68-c793b8baf581</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup whipping cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">0e7b3e4b-ebac-48c6-9e68-c793b8baf581</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon butter</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">0e7b3e4b-ebac-48c6-9e68-c793b8baf581</Data></Cell>
+<Cell><Data ss:Type="String">1 teaspoon grated lemon peel</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">301ad581-c86a-4592-b944-aa997fafe9cb</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounce) package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">301ad581-c86a-4592-b944-aa997fafe9cb</Data></Cell>
+<Cell><Data ss:Type="String">2 scoops vanilla ice cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">301ad581-c86a-4592-b944-aa997fafe9cb</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup strawberries sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">301ad581-c86a-4592-b944-aa997fafe9cb</Data></Cell>
+<Cell><Data ss:Type="String">chocolate sauce (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc0c008e-6dba-4f52-964b-317dd597ae27</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; New York Style Classic Cheesecake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc0c008e-6dba-4f52-964b-317dd597ae27</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup hot fudge topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc0c008e-6dba-4f52-964b-317dd597ae27</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup caramel topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc0c008e-6dba-4f52-964b-317dd597ae27</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup chopped pecans</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc0c008e-6dba-4f52-964b-317dd597ae27</Data></Cell>
+<Cell><Data ss:Type="String">chocolate dipped pecans (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1cd74e50-8a53-4b3b-a500-65d8ab2480b3</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounce) package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1cd74e50-8a53-4b3b-a500-65d8ab2480b3</Data></Cell>
+<Cell><Data ss:Type="String">vanilla ice cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1cd74e50-8a53-4b3b-a500-65d8ab2480b3</Data></Cell>
+<Cell><Data ss:Type="String">chocolate sauce</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1cd74e50-8a53-4b3b-a500-65d8ab2480b3</Data></Cell>
+<Cell><Data ss:Type="String">sliced strawberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ace913ee-0e95-42d7-8f34-cd58cbf5533d</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ace913ee-0e95-42d7-8f34-cd58cbf5533d</Data></Cell>
+<Cell><Data ss:Type="String">1 cup Greek style lemon yogurt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ace913ee-0e95-42d7-8f34-cd58cbf5533d</Data></Cell>
+<Cell><Data ss:Type="String">assorted fruit toppers (such as sliced strawberries or blueberries)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2920ef89-1d06-43d2-937c-2823c69857fc</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounce) package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2920ef89-1d06-43d2-937c-2823c69857fc</Data></Cell>
+<Cell><Data ss:Type="String">mini chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2920ef89-1d06-43d2-937c-2823c69857fc</Data></Cell>
+<Cell><Data ss:Type="String">mini marshmallows</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2920ef89-1d06-43d2-937c-2823c69857fc</Data></Cell>
+<Cell><Data ss:Type="String">optional peanuts</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4b3acd68-e8ca-4f29-af58-b818dc102349</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; New York Style Cheesecake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4b3acd68-e8ca-4f29-af58-b818dc102349</Data></Cell>
+<Cell><Data ss:Type="String">1 cup apple pie filling</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4b3acd68-e8ca-4f29-af58-b818dc102349</Data></Cell>
+<Cell><Data ss:Type="String">1/4 teaspoon ground cinnamon</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4b3acd68-e8ca-4f29-af58-b818dc102349</Data></Cell>
+<Cell><Data ss:Type="String">chopped peanuts</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cfb6b83d-c792-40f1-ba72-61985bbbbdae</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounce) package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cfb6b83d-c792-40f1-ba72-61985bbbbdae</Data></Cell>
+<Cell><Data ss:Type="String">melted butter</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cfb6b83d-c792-40f1-ba72-61985bbbbdae</Data></Cell>
+<Cell><Data ss:Type="String">chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cfb6b83d-c792-40f1-ba72-61985bbbbdae</Data></Cell>
+<Cell><Data ss:Type="String">mini marshmallows</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa7bd3a0-f53c-4011-9083-a162ef07862f</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa7bd3a0-f53c-4011-9083-a162ef07862f</Data></Cell>
+<Cell><Data ss:Type="String">melted butter</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa7bd3a0-f53c-4011-9083-a162ef07862f</Data></Cell>
+<Cell><Data ss:Type="String">vanilla ice cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa7bd3a0-f53c-4011-9083-a162ef07862f</Data></Cell>
+<Cell><Data ss:Type="String">chocolate sauce</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa7bd3a0-f53c-4011-9083-a162ef07862f</Data></Cell>
+<Cell><Data ss:Type="String">pineapple slices</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9a33770-9bf8-4417-b09a-eab02ae1552a</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9a33770-9bf8-4417-b09a-eab02ae1552a</Data></Cell>
+<Cell><Data ss:Type="String">1/3 cup raspberry jam seedless</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9a33770-9bf8-4417-b09a-eab02ae1552a</Data></Cell>
+<Cell><Data ss:Type="String">1 (12 ounces) package chocolate chips semi-sweet</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9a33770-9bf8-4417-b09a-eab02ae1552a</Data></Cell>
+<Cell><Data ss:Type="String">3/4 cup heavy whipping cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9a33770-9bf8-4417-b09a-eab02ae1552a</Data></Cell>
+<Cell><Data ss:Type="String">fresh raspberries (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">399efc5c-f7fe-4317-aa17-0ea5829fbff7</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">399efc5c-f7fe-4317-aa17-0ea5829fbff7</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup peanut butter creamy</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">399efc5c-f7fe-4317-aa17-0ea5829fbff7</Data></Cell>
+<Cell><Data ss:Type="String">2 medium bananas sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">399efc5c-f7fe-4317-aa17-0ea5829fbff7</Data></Cell>
+<Cell><Data ss:Type="String">1 (3.9 ounces) box chocolate instant pudding and pie filling</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">399efc5c-f7fe-4317-aa17-0ea5829fbff7</Data></Cell>
+<Cell><Data ss:Type="String">2 cups milk</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">399efc5c-f7fe-4317-aa17-0ea5829fbff7</Data></Cell>
+<Cell><Data ss:Type="String">1 (8 ounces) container whipped topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">399efc5c-f7fe-4317-aa17-0ea5829fbff7</Data></Cell>
+<Cell><Data ss:Type="String">chopped peanuts (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8046d553-3d21-43c6-b814-fdb6e5ee88d7</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Pecan Coffee Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8046d553-3d21-43c6-b814-fdb6e5ee88d7</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup sour cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8046d553-3d21-43c6-b814-fdb6e5ee88d7</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup chunk pineapple drained</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8046d553-3d21-43c6-b814-fdb6e5ee88d7</Data></Cell>
+<Cell><Data ss:Type="String">1 medium banana sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8046d553-3d21-43c6-b814-fdb6e5ee88d7</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon shredded coconut</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8046d553-3d21-43c6-b814-fdb6e5ee88d7</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon honey</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f173daf-1a65-4b11-aba9-f658c1014ff8</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Classic Cheesecake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f173daf-1a65-4b11-aba9-f658c1014ff8</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup hot fudge topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f173daf-1a65-4b11-aba9-f658c1014ff8</Data></Cell>
+<Cell><Data ss:Type="String">9 mini peanut butter cups</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f173daf-1a65-4b11-aba9-f658c1014ff8</Data></Cell>
+<Cell><Data ss:Type="String">whipped topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">3 eggs beaten</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">1/3 cup heavy cream or 1 cup milk</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">1/2 teaspoon almond extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">1/2 teaspoon vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">1/4 teaspoon ground cinnamon</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">1/8 teaspoon salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">3 tablespoons butter or margarine</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">powdered sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">berries and syrup for serving</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3557a32a-0d59-46ec-a1bd-1f1f82cb0470</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounces) package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3557a32a-0d59-46ec-a1bd-1f1f82cb0470</Data></Cell>
+<Cell><Data ss:Type="String">1 (12 ounces) bag semi-sweet chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3557a32a-0d59-46ec-a1bd-1f1f82cb0470</Data></Cell>
+<Cell><Data ss:Type="String">assorted cookies crushed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3557a32a-0d59-46ec-a1bd-1f1f82cb0470</Data></Cell>
+<Cell><Data ss:Type="String">assorted candies crushed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3557a32a-0d59-46ec-a1bd-1f1f82cb0470</Data></Cell>
+<Cell><Data ss:Type="String">assorted sprinkles</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3557a32a-0d59-46ec-a1bd-1f1f82cb0470</Data></Cell>
+<Cell><Data ss:Type="String">20-25 lollipop sticks</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">079e0217-a86f-4f06-bdd7-78c71701398b</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">079e0217-a86f-4f06-bdd7-78c71701398b</Data></Cell>
+<Cell><Data ss:Type="String">2 cups miniature marshmallows</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">079e0217-a86f-4f06-bdd7-78c71701398b</Data></Cell>
+<Cell><Data ss:Type="String">1 cup semi-sweet chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">079e0217-a86f-4f06-bdd7-78c71701398b</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup peanuts chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">1-1/2 cup heavy whipping cream divided</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup sweetened condensed milk</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup coconut milk</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">1/2 teaspoon vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup toasted coconut</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">sliced bananas (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c8e78b84-fbb6-4f39-ae7f-485cbc5054dd</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c8e78b84-fbb6-4f39-ae7f-485cbc5054dd</Data></Cell>
+<Cell><Data ss:Type="String">1 (8 ounces) container mascarpone cheese softened</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c8e78b84-fbb6-4f39-ae7f-485cbc5054dd</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup whipping cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c8e78b84-fbb6-4f39-ae7f-485cbc5054dd</Data></Cell>
+<Cell><Data ss:Type="String">1/3 cup sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c8e78b84-fbb6-4f39-ae7f-485cbc5054dd</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup chocolate hazelnut spread</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c8e78b84-fbb6-4f39-ae7f-485cbc5054dd</Data></Cell>
+<Cell><Data ss:Type="String">1 cup cherry pie filling</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c8e78b84-fbb6-4f39-ae7f-485cbc5054dd</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup fresh basil leaves cut into thin strips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c8e78b84-fbb6-4f39-ae7f-485cbc5054dd</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">43e76101-b8c2-409f-b64c-949024b88d56</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Classic Cheesecake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">43e76101-b8c2-409f-b64c-949024b88d56</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup your favorite preserves (such as black raspberry, strawberry, red raspberry, currant, or lemon curd)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">43e76101-b8c2-409f-b64c-949024b88d56</Data></Cell>
+<Cell><Data ss:Type="String">whipped topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7c57b15f-e510-4c82-9aa1-eac3587b1f13</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Classic Cheesecake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7c57b15f-e510-4c82-9aa1-eac3587b1f13</Data></Cell>
+<Cell><Data ss:Type="String">2 cups strawberries sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">60cc7b7f-8bb5-41ef-ba0f-8b4a82aa57ef</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Classic Cheesecake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">60cc7b7f-8bb5-41ef-ba0f-8b4a82aa57ef</Data></Cell>
+<Cell><Data ss:Type="String">1 cup strawberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">60cc7b7f-8bb5-41ef-ba0f-8b4a82aa57ef</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">60cc7b7f-8bb5-41ef-ba0f-8b4a82aa57ef</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon lemon juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">089c3d30-bae9-4719-9de8-8099deea0812</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounces) package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">089c3d30-bae9-4719-9de8-8099deea0812</Data></Cell>
+<Cell><Data ss:Type="String">1 (21 ounces) can cherry or blueberry pie filling</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">089c3d30-bae9-4719-9de8-8099deea0812</Data></Cell>
+<Cell><Data ss:Type="String">4 cups vanilla ice cream softened</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a97e0538-f41e-4484-b613-cbecd7f55668</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; French Cheesecake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a97e0538-f41e-4484-b613-cbecd7f55668</Data></Cell>
+<Cell><Data ss:Type="String">1/3 cup semi-sweet chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a97e0538-f41e-4484-b613-cbecd7f55668</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons milk</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a97e0538-f41e-4484-b613-cbecd7f55668</Data></Cell>
+<Cell><Data ss:Type="String">6 wholes strawberries with stems</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">1-1/2 tablespoon granulated sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">1/2 teaspoon ground cinnamon</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup powdered sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">1 teaspoon butter melted</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">3-4 teaspoons milk</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">1/4 teaspoon vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ec1cce-1483-4319-a6a7-cc701519bcc0</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ec1cce-1483-4319-a6a7-cc701519bcc0</Data></Cell>
+<Cell><Data ss:Type="String">1 cup fresh strawberries sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ec1cce-1483-4319-a6a7-cc701519bcc0</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon granulated sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ec1cce-1483-4319-a6a7-cc701519bcc0</Data></Cell>
+<Cell><Data ss:Type="String">1-1/2 cup whipped topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ec1cce-1483-4319-a6a7-cc701519bcc0</Data></Cell>
+<Cell><Data ss:Type="String">chocolate curls (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">765cd9f1-76cd-4872-8b64-eb7db6e9847f</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">765cd9f1-76cd-4872-8b64-eb7db6e9847f</Data></Cell>
+<Cell><Data ss:Type="String">1 container white frosting</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">765cd9f1-76cd-4872-8b64-eb7db6e9847f</Data></Cell>
+<Cell><Data ss:Type="String">2-3 drops food coloring red</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">765cd9f1-76cd-4872-8b64-eb7db6e9847f</Data></Cell>
+<Cell><Data ss:Type="String">1 package decorator writing gel red</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2b8d2027-b893-46e3-b7eb-9b7eb5f9ef2f</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Classic Cheesecake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2b8d2027-b893-46e3-b7eb-9b7eb5f9ef2f</Data></Cell>
+<Cell><Data ss:Type="String">1/3 cup heavy whipping cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2b8d2027-b893-46e3-b7eb-9b7eb5f9ef2f</Data></Cell>
+<Cell><Data ss:Type="String">3 ounces bittersweet chocolate chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2b8d2027-b893-46e3-b7eb-9b7eb5f9ef2f</Data></Cell>
+<Cell><Data ss:Type="String">1 ounce white or milk chocolate melted</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2b8d2027-b893-46e3-b7eb-9b7eb5f9ef2f</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup raspberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59a10fe7-6db0-43f8-9076-76eb40bf9d3d</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounces) package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59a10fe7-6db0-43f8-9076-76eb40bf9d3d</Data></Cell>
+<Cell><Data ss:Type="String">1 (14 ounces) can sweetened condensed milk</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59a10fe7-6db0-43f8-9076-76eb40bf9d3d</Data></Cell>
+<Cell><Data ss:Type="String">2 cups semi-sweet chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59a10fe7-6db0-43f8-9076-76eb40bf9d3d</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup heavy whipping cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59a10fe7-6db0-43f8-9076-76eb40bf9d3d</Data></Cell>
+<Cell><Data ss:Type="String">1 teaspoon vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59a10fe7-6db0-43f8-9076-76eb40bf9d3d</Data></Cell>
+<Cell><Data ss:Type="String">1 package big marshmallows (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59a10fe7-6db0-43f8-9076-76eb40bf9d3d</Data></Cell>
+<Cell><Data ss:Type="String">assorted fruits (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fb0940d3-b3bc-42e9-8544-35eebdce16fc</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fb0940d3-b3bc-42e9-8544-35eebdce16fc</Data></Cell>
+<Cell><Data ss:Type="String">1 fresh pineapple cubed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fb0940d3-b3bc-42e9-8544-35eebdce16fc</Data></Cell>
+<Cell><Data ss:Type="String">1 fresh cantaloupe cubed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fb0940d3-b3bc-42e9-8544-35eebdce16fc</Data></Cell>
+<Cell><Data ss:Type="String">1 pint strawberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fb0940d3-b3bc-42e9-8544-35eebdce16fc</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup rum</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fb0940d3-b3bc-42e9-8544-35eebdce16fc</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons brown sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fb0940d3-b3bc-42e9-8544-35eebdce16fc</Data></Cell>
+<Cell><Data ss:Type="String">6 teaspoons vanilla extract (1 per kabob)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fb0940d3-b3bc-42e9-8544-35eebdce16fc</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup shredded coconut (toasted, optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fb0940d3-b3bc-42e9-8544-35eebdce16fc</Data></Cell>
+<Cell><Data ss:Type="String">1 cup yogurt (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">4 ounces cream cheese softened</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons butter softened</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">2 cups powdered sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon orange juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup sugar (plus extra for garnish)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">1 orange</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">1 teaspoon orange extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup shredded coconut (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">53c4e2a2-7110-4938-9adc-40de6746d9a7</Data></Cell>
+<Cell><Data ss:Type="String">2 packages Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">53c4e2a2-7110-4938-9adc-40de6746d9a7</Data></Cell>
+<Cell><Data ss:Type="String">3 assorted fresh fruits (oranges, strawberries and star fruit shown)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">53c4e2a2-7110-4938-9adc-40de6746d9a7</Data></Cell>
+<Cell><Data ss:Type="String">1 pound bag green grapes</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">53c4e2a2-7110-4938-9adc-40de6746d9a7</Data></Cell>
+<Cell><Data ss:Type="String">1 egg white large</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">53c4e2a2-7110-4938-9adc-40de6746d9a7</Data></Cell>
+<Cell><Data ss:Type="String">1 1/3 cup powder sugar sifted</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">53c4e2a2-7110-4938-9adc-40de6746d9a7</Data></Cell>
+<Cell><Data ss:Type="String">1/2 tablespoon vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">53c4e2a2-7110-4938-9adc-40de6746d9a7</Data></Cell>
+<Cell><Data ss:Type="String">2-3 drops assorted food coloring</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">53c4e2a2-7110-4938-9adc-40de6746d9a7</Data></Cell>
+<Cell><Data ss:Type="String">1 bag wooden skewers</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">53c4e2a2-7110-4938-9adc-40de6746d9a7</Data></Cell>
+<Cell><Data ss:Type="String">1 decorative flower pot or basket</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">53c4e2a2-7110-4938-9adc-40de6746d9a7</Data></Cell>
+<Cell><Data ss:Type="String">floral foam to hold skewers in place</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">35545539-bf4f-4d75-95eb-96fe94480340</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">35545539-bf4f-4d75-95eb-96fe94480340</Data></Cell>
+<Cell><Data ss:Type="String">1 cup semi-sweet chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">35545539-bf4f-4d75-95eb-96fe94480340</Data></Cell>
+<Cell><Data ss:Type="String">3/4 cup heavy whipping cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">35545539-bf4f-4d75-95eb-96fe94480340</Data></Cell>
+<Cell><Data ss:Type="String">1/4 teaspoon almond extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">35545539-bf4f-4d75-95eb-96fe94480340</Data></Cell>
+<Cell><Data ss:Type="String">toasted almond slices (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">54045cda-506d-4a4e-a604-26d88435a3b7</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounces) package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">54045cda-506d-4a4e-a604-26d88435a3b7</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup creamy peanut butter</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">54045cda-506d-4a4e-a604-26d88435a3b7</Data></Cell>
+<Cell><Data ss:Type="String">3 ounces cream cheese softened</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">54045cda-506d-4a4e-a604-26d88435a3b7</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons caramel topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">54045cda-506d-4a4e-a604-26d88435a3b7</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup butterscotch chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">54045cda-506d-4a4e-a604-26d88435a3b7</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup raisins</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">54045cda-506d-4a4e-a604-26d88435a3b7</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup pecans chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">54045cda-506d-4a4e-a604-26d88435a3b7</Data></Cell>
+<Cell><Data ss:Type="String">1 small banana sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">54045cda-506d-4a4e-a604-26d88435a3b7</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons butter melted</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a545b87-8cf3-4bf0-97ba-2202e97fe318</Data></Cell>
+<Cell><Data ss:Type="String">1 Sara Lee&#174; Oven Fresh Pumpkin Pie</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a545b87-8cf3-4bf0-97ba-2202e97fe318</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons butter melted</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a545b87-8cf3-4bf0-97ba-2202e97fe318</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup brown sugar packed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a545b87-8cf3-4bf0-97ba-2202e97fe318</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon flour</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a545b87-8cf3-4bf0-97ba-2202e97fe318</Data></Cell>
+<Cell><Data ss:Type="String">3/4 cup pecans coarsely chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a545b87-8cf3-4bf0-97ba-2202e97fe318</Data></Cell>
+<Cell><Data ss:Type="String">ground cinnamon (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a545b87-8cf3-4bf0-97ba-2202e97fe318</Data></Cell>
+<Cell><Data ss:Type="String">whipped cream (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c4ef7087-3fc7-4d90-a176-ece1b73b5d2f</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c4ef7087-3fc7-4d90-a176-ece1b73b5d2f</Data></Cell>
+<Cell><Data ss:Type="String">1 (12 ounces) package frozen raspberries thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c4ef7087-3fc7-4d90-a176-ece1b73b5d2f</Data></Cell>
+<Cell><Data ss:Type="String">3 tablespoons granulated sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c4ef7087-3fc7-4d90-a176-ece1b73b5d2f</Data></Cell>
+<Cell><Data ss:Type="String">1/2 teaspoon lemon juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c4ef7087-3fc7-4d90-a176-ece1b73b5d2f</Data></Cell>
+<Cell><Data ss:Type="String">1-1/2 cup whipped topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">1/3 cup lemonade concentrate</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">3 tablespoons lemoncello liqueur (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">1 cup mascarpone cheese softened</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup whipping cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup lemon curd</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">1/3 cup marshmallow cream or fluff</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">1 teaspoon lemon zest</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">fresh raspberries (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">1 (8 ounces) can pineapple tidbits in juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">1 (3.4 ounces) package instant coconut or banana cream pudding and pie filling</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">1 cup heavy whipping cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">1/3 cup sour cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup powdered sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons coconut flavored rum divided</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">1 cup caramel topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">3 s bananas thinly sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">2/3 cup shredded coconut toasted</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">1/3 cup macadamia nuts finely chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6a493ad5-123f-4e0e-8472-dc80e28e31e6</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6a493ad5-123f-4e0e-8472-dc80e28e31e6</Data></Cell>
+<Cell><Data ss:Type="String">assorted spreads (such as peanut butter, jam or jelly, strawberry cream cheese spread)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6a493ad5-123f-4e0e-8472-dc80e28e31e6</Data></Cell>
+<Cell><Data ss:Type="String">assorted toppers (such as sliced bananas, strawberries or apples, mini chocolate chips, coconut, chopped nuts)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6a493ad5-123f-4e0e-8472-dc80e28e31e6</Data></Cell>
+<Cell><Data ss:Type="String">cinnamon sugar (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">497a9c76-ad06-42e8-a1fb-5b85daeacd13</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">497a9c76-ad06-42e8-a1fb-5b85daeacd13</Data></Cell>
+<Cell><Data ss:Type="String">1 (3.4 ounces) package lemon or vanilla pudding mix</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">497a9c76-ad06-42e8-a1fb-5b85daeacd13</Data></Cell>
+<Cell><Data ss:Type="String">2 cups cold milk</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">497a9c76-ad06-42e8-a1fb-5b85daeacd13</Data></Cell>
+<Cell><Data ss:Type="String">3 dashs assorted berries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">497a9c76-ad06-42e8-a1fb-5b85daeacd13</Data></Cell>
+<Cell><Data ss:Type="String">1 (8 ounces) container whipped topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9df574d-0e57-4dd2-bb1d-e0396a86ac04</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9df574d-0e57-4dd2-bb1d-e0396a86ac04</Data></Cell>
+<Cell><Data ss:Type="String">1 (12 ounces) package frozen unsweetened raspberries thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9df574d-0e57-4dd2-bb1d-e0396a86ac04</Data></Cell>
+<Cell><Data ss:Type="String">3 tablespoons sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9df574d-0e57-4dd2-bb1d-e0396a86ac04</Data></Cell>
+<Cell><Data ss:Type="String">1 teaspoon cornstarch</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9df574d-0e57-4dd2-bb1d-e0396a86ac04</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9df574d-0e57-4dd2-bb1d-e0396a86ac04</Data></Cell>
+<Cell><Data ss:Type="String">1/2 (each) cup sliced strawberries, whole raspberries, blueberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">13d687d2-39a2-44f6-9c07-1a0ea4d588b1</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">13d687d2-39a2-44f6-9c07-1a0ea4d588b1</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup Greek peach yogurt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">13d687d2-39a2-44f6-9c07-1a0ea4d588b1</Data></Cell>
+<Cell><Data ss:Type="String">1 cup whole raspberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">13d687d2-39a2-44f6-9c07-1a0ea4d588b1</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup sliced fresh or frozen peaches</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">13d687d2-39a2-44f6-9c07-1a0ea4d588b1</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon light whipped topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">13d687d2-39a2-44f6-9c07-1a0ea4d588b1</Data></Cell>
+<Cell><Data ss:Type="String">toasted almonds</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">1 package (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake, thawed &amp; toasted</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">4 eggs</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">2 cups half and half</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">1-1/3 cup brown sugar packed &amp; divided</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">1 teaspoon ground cinnamon</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">1/2 teaspoon ground nutmeg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">1/4 teaspoon salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup unsalted butter softened</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">3 large bananas ripe &amp; thinly sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">whipped topping (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d29cea9e-0800-487e-b431-5dacdacdd4b2</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d29cea9e-0800-487e-b431-5dacdacdd4b2</Data></Cell>
+<Cell><Data ss:Type="String">ice cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d29cea9e-0800-487e-b431-5dacdacdd4b2</Data></Cell>
+<Cell><Data ss:Type="String">caramel sauce</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d29cea9e-0800-487e-b431-5dacdacdd4b2</Data></Cell>
+<Cell><Data ss:Type="String">chocolate sauce</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1892e462-1077-4bd5-81ec-eb1388690b5d</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Classic Cheesecake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1892e462-1077-4bd5-81ec-eb1388690b5d</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup apple cider</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1892e462-1077-4bd5-81ec-eb1388690b5d</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup crushed graham crackers</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1892e462-1077-4bd5-81ec-eb1388690b5d</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup of sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1892e462-1077-4bd5-81ec-eb1388690b5d</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup of cinnamon caramel sauce for serving</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounce) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons butter melted</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">1 (8 ounce) package cream cheese softened</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup creamy peanut butter</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">1 teaspoon vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">1 1/4 cup powdered sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">1 (6 ounce) cup semi-sweet chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup chopped roasted salted peanuts</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">de4815bd-3d70-4e4c-a711-286bf5aeda3d</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">de4815bd-3d70-4e4c-a711-286bf5aeda3d</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup orange juice divided</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">de4815bd-3d70-4e4c-a711-286bf5aeda3d</Data></Cell>
+<Cell><Data ss:Type="String">2 (3.9 ounces each) packages chocolate instant pudding and pie filling</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">de4815bd-3d70-4e4c-a711-286bf5aeda3d</Data></Cell>
+<Cell><Data ss:Type="String">4 cups cold milk</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">de4815bd-3d70-4e4c-a711-286bf5aeda3d</Data></Cell>
+<Cell><Data ss:Type="String">1 (12 ounces) container whipped topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">de4815bd-3d70-4e4c-a711-286bf5aeda3d</Data></Cell>
+<Cell><Data ss:Type="String">2 (21 ounces each) cans cherry pie filling</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">de4815bd-3d70-4e4c-a711-286bf5aeda3d</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup almonds sliced &amp; toasted (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">826efeb2-77a3-4a24-860c-7ac7dd64b3d4</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Classic Cheesecake slightly thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">826efeb2-77a3-4a24-860c-7ac7dd64b3d4</Data></Cell>
+<Cell><Data ss:Type="String">1 (12 ounces) bag semi-sweet chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">826efeb2-77a3-4a24-860c-7ac7dd64b3d4</Data></Cell>
+<Cell><Data ss:Type="String">assorted cookies crushed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">826efeb2-77a3-4a24-860c-7ac7dd64b3d4</Data></Cell>
+<Cell><Data ss:Type="String">assorted candies crushed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">826efeb2-77a3-4a24-860c-7ac7dd64b3d4</Data></Cell>
+<Cell><Data ss:Type="String">assorted sprinkles</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">826efeb2-77a3-4a24-860c-7ac7dd64b3d4</Data></Cell>
+<Cell><Data ss:Type="String">15-20 lollipop sticks</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9397c7ea-d6f0-4a3a-9f9e-7ec4f0afed9e</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Classic Cheesecake slightly thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9397c7ea-d6f0-4a3a-9f9e-7ec4f0afed9e</Data></Cell>
+<Cell><Data ss:Type="String">1 cup your favorite ice cream toppings</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9397c7ea-d6f0-4a3a-9f9e-7ec4f0afed9e</Data></Cell>
+<Cell><Data ss:Type="String">whipped topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">76ad0e0c-be8a-4f5d-807f-a0d55da308f9</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Frozen Pound Cake, thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">76ad0e0c-be8a-4f5d-807f-a0d55da308f9</Data></Cell>
+<Cell><Data ss:Type="String">1 (3 ounce) package lime gelatin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">76ad0e0c-be8a-4f5d-807f-a0d55da308f9</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup margarita mix</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">76ad0e0c-be8a-4f5d-807f-a0d55da308f9</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup tequila or water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">76ad0e0c-be8a-4f5d-807f-a0d55da308f9</Data></Cell>
+<Cell><Data ss:Type="String">2 cups frozen whipped topping, thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">76ad0e0c-be8a-4f5d-807f-a0d55da308f9</Data></Cell>
+<Cell><Data ss:Type="String">Coarse green baking sugar and fresh lime slices (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e1351dd2-dd64-4720-a593-b806e57c4693</Data></Cell>
+<Cell><Data ss:Type="String">1/4 – 1/2 package Sara Lee&#174; Classic Cheesecake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e1351dd2-dd64-4720-a593-b806e57c4693</Data></Cell>
+<Cell><Data ss:Type="String">3 scoops vanilla ice cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e1351dd2-dd64-4720-a593-b806e57c4693</Data></Cell>
+<Cell><Data ss:Type="String">1 1/2 cup milk</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e1351dd2-dd64-4720-a593-b806e57c4693</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e2c9cbe2-e8b7-45a3-9a4f-14ec5965df23</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounce) package Sara Lee&#174; Frozen Pound Cake, thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e2c9cbe2-e8b7-45a3-9a4f-14ec5965df23</Data></Cell>
+<Cell><Data ss:Type="String">1 1/3 cup heavy cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e2c9cbe2-e8b7-45a3-9a4f-14ec5965df23</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup granulated sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e2c9cbe2-e8b7-45a3-9a4f-14ec5965df23</Data></Cell>
+<Cell><Data ss:Type="String">2 eggs, beaten</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e2c9cbe2-e8b7-45a3-9a4f-14ec5965df23</Data></Cell>
+<Cell><Data ss:Type="String">3/4 cup caramel sauce, warmed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e2c9cbe2-e8b7-45a3-9a4f-14ec5965df23</Data></Cell>
+<Cell><Data ss:Type="String">1/4 teaspoon sea salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3fc83b9-4732-48fe-ad7c-937f4b4cbded</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Classic Cheesecake slightly thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3fc83b9-4732-48fe-ad7c-937f4b4cbded</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup hot fudge topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3fc83b9-4732-48fe-ad7c-937f4b4cbded</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup caramel topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3fc83b9-4732-48fe-ad7c-937f4b4cbded</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup pecans whole, toasted</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3fc83b9-4732-48fe-ad7c-937f4b4cbded</Data></Cell>
+<Cell><Data ss:Type="String">whipped topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3fc83b9-4732-48fe-ad7c-937f4b4cbded</Data></Cell>
+<Cell><Data ss:Type="String">maraschino cherries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47ff6e25-0099-4e97-bafd-b7f56110db41</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Butter Streusel Coffee Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47ff6e25-0099-4e97-bafd-b7f56110db41</Data></Cell>
+<Cell><Data ss:Type="String">1-1/2 cup apple pie filling</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47ff6e25-0099-4e97-bafd-b7f56110db41</Data></Cell>
+<Cell><Data ss:Type="String">1/2 teaspoon ground cinnamon</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47ff6e25-0099-4e97-bafd-b7f56110db41</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup powdered sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47ff6e25-0099-4e97-bafd-b7f56110db41</Data></Cell>
+<Cell><Data ss:Type="String">1 teaspoon butter melted</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47ff6e25-0099-4e97-bafd-b7f56110db41</Data></Cell>
+<Cell><Data ss:Type="String">3-4 teaspoons water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47ff6e25-0099-4e97-bafd-b7f56110db41</Data></Cell>
+<Cell><Data ss:Type="String">1/4 teaspoon vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f287f9c-869f-4b9a-8df8-1ce9cbb35de6</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounce) package Sara Lee&#174; Frozen Pound Cake, thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f287f9c-869f-4b9a-8df8-1ce9cbb35de6</Data></Cell>
+<Cell><Data ss:Type="String">20 caramels, unwrapped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f287f9c-869f-4b9a-8df8-1ce9cbb35de6</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup heavy whipping cream, plus</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f287f9c-869f-4b9a-8df8-1ce9cbb35de6</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon heavy whipping cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f287f9c-869f-4b9a-8df8-1ce9cbb35de6</Data></Cell>
+<Cell><Data ss:Type="String">1/8 teaspoon cream of tartar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f287f9c-869f-4b9a-8df8-1ce9cbb35de6</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup milk chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f287f9c-869f-4b9a-8df8-1ce9cbb35de6</Data></Cell>
+<Cell><Data ss:Type="String">8 chocolate covered pretzels, broken into small pieces</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f287f9c-869f-4b9a-8df8-1ce9cbb35de6</Data></Cell>
+<Cell><Data ss:Type="String">1/2 tablespoon coarse sea salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2f0f41f9-6bcd-477e-8f73-92b917e99710</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2f0f41f9-6bcd-477e-8f73-92b917e99710</Data></Cell>
+<Cell><Data ss:Type="String">1 cup instant oatmeal</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2f0f41f9-6bcd-477e-8f73-92b917e99710</Data></Cell>
+<Cell><Data ss:Type="String">3/4 cup brown sugar packed light</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2f0f41f9-6bcd-477e-8f73-92b917e99710</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup butter or margarine softened</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2f0f41f9-6bcd-477e-8f73-92b917e99710</Data></Cell>
+<Cell><Data ss:Type="String">3/4 cup semi-sweet chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">26bd1366-c478-4c19-860d-230be6d8961e</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">26bd1366-c478-4c19-860d-230be6d8961e</Data></Cell>
+<Cell><Data ss:Type="String">1 (21 ounces) can apple pie filling</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">26bd1366-c478-4c19-860d-230be6d8961e</Data></Cell>
+<Cell><Data ss:Type="String">1/2 teaspoon ground cinnamon</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">26bd1366-c478-4c19-860d-230be6d8961e</Data></Cell>
+<Cell><Data ss:Type="String">1/4 teaspoon ground nutmeg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">26bd1366-c478-4c19-860d-230be6d8961e</Data></Cell>
+<Cell><Data ss:Type="String">1/3 cup chopped pecans or walnuts</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">26bd1366-c478-4c19-860d-230be6d8961e</Data></Cell>
+<Cell><Data ss:Type="String">Vanilla or cinnamon ice cream (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e8398dcf-791f-4724-b341-627718cf8563</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounce) package Sara Lee&#174; Frozen Pound Cake, thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e8398dcf-791f-4724-b341-627718cf8563</Data></Cell>
+<Cell><Data ss:Type="String">1 (8 ounce) container mascarpone cheese, softened</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e8398dcf-791f-4724-b341-627718cf8563</Data></Cell>
+<Cell><Data ss:Type="String">1 (4-5 ounce) container plain Greek yogurt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e8398dcf-791f-4724-b341-627718cf8563</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon pure honey</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e8398dcf-791f-4724-b341-627718cf8563</Data></Cell>
+<Cell><Data ss:Type="String">3 cups assorted berries such as: blueberries, raspberries, strawberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e8398dcf-791f-4724-b341-627718cf8563</Data></Cell>
+<Cell><Data ss:Type="String">1 cup granola</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">336348dc-ca99-4f30-af5b-d38222fe1fe2</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounces) package Sara Lee&#174; Frozen Pound Cake, thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">336348dc-ca99-4f30-af5b-d38222fe1fe2</Data></Cell>
+<Cell><Data ss:Type="String">1 1/2 cup whipping cream, divided</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">336348dc-ca99-4f30-af5b-d38222fe1fe2</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup semisweet chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">336348dc-ca99-4f30-af5b-d38222fe1fe2</Data></Cell>
+<Cell><Data ss:Type="String">5 teaspoons instant espresso powder, divided</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">336348dc-ca99-4f30-af5b-d38222fe1fe2</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup superfine granulated sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">336348dc-ca99-4f30-af5b-d38222fe1fe2</Data></Cell>
+<Cell><Data ss:Type="String">1 teaspoon vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">336348dc-ca99-4f30-af5b-d38222fe1fe2</Data></Cell>
+<Cell><Data ss:Type="String">4 tablespoons English toffee bits, divided</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">818caecb-606f-4977-96da-a014f2be01b3</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounces) package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">818caecb-606f-4977-96da-a014f2be01b3</Data></Cell>
+<Cell><Data ss:Type="String">1 cup raspberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">818caecb-606f-4977-96da-a014f2be01b3</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup granulated sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">818caecb-606f-4977-96da-a014f2be01b3</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons lemon juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3129be17-7aee-446a-8ef1-5d69485c1a82</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3129be17-7aee-446a-8ef1-5d69485c1a82</Data></Cell>
+<Cell><Data ss:Type="String">optional whipped cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3129be17-7aee-446a-8ef1-5d69485c1a82</Data></Cell>
+<Cell><Data ss:Type="String">optional toasted pecans</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">238d7acd-b0bf-46a1-956e-eb23694e7b4b</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounce) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">238d7acd-b0bf-46a1-956e-eb23694e7b4b</Data></Cell>
+<Cell><Data ss:Type="String">6 (1/2 inch) slices fresh pineapple cored</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">238d7acd-b0bf-46a1-956e-eb23694e7b4b</Data></Cell>
+<Cell><Data ss:Type="String">3 tablespoons butter melted</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">238d7acd-b0bf-46a1-956e-eb23694e7b4b</Data></Cell>
+<Cell><Data ss:Type="String">1 cup whipping cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">238d7acd-b0bf-46a1-956e-eb23694e7b4b</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons powdered sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">238d7acd-b0bf-46a1-956e-eb23694e7b4b</Data></Cell>
+<Cell><Data ss:Type="String">1 teaspoon vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">238d7acd-b0bf-46a1-956e-eb23694e7b4b</Data></Cell>
+<Cell><Data ss:Type="String">3 tablespoons caramel ice cream topping</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">238d7acd-b0bf-46a1-956e-eb23694e7b4b</Data></Cell>
+<Cell><Data ss:Type="String">1/4 teaspoon coarse sea salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">238d7acd-b0bf-46a1-956e-eb23694e7b4b</Data></Cell>
+<Cell><Data ss:Type="String">6 tablespoons coarsely chopped pecans</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">992a252a-6f14-4efa-9782-81ee9dc1f654</Data></Cell>
+<Cell><Data ss:Type="String">1 package Sara Lee&#174; Frozen Lemon Pound Cake, thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">992a252a-6f14-4efa-9782-81ee9dc1f654</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup strawberry or raspberry basalmic vinegar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">992a252a-6f14-4efa-9782-81ee9dc1f654</Data></Cell>
+<Cell><Data ss:Type="String">3 tablespoons sugar, divided</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">992a252a-6f14-4efa-9782-81ee9dc1f654</Data></Cell>
+<Cell><Data ss:Type="String">1 cup strawberries, stems removed, chopped</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">992a252a-6f14-4efa-9782-81ee9dc1f654</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup crumbled goat cheese</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">992a252a-6f14-4efa-9782-81ee9dc1f654</Data></Cell>
+<Cell><Data ss:Type="String">2 tablespoons cilantro, chopped (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c2beb760-44f1-456b-b491-8922c9e2c371</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c2beb760-44f1-456b-b491-8922c9e2c371</Data></Cell>
+<Cell><Data ss:Type="String">1 cup caramel sauce</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c2beb760-44f1-456b-b491-8922c9e2c371</Data></Cell>
+<Cell><Data ss:Type="String">1 cup chocolate sauce (or 1 cup chocolate chips, melted)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c2beb760-44f1-456b-b491-8922c9e2c371</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup chopped pecans</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c2beb760-44f1-456b-b491-8922c9e2c371</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup mini-chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">671c424e-d2c1-49c7-a545-45f9034e4e4b</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">671c424e-d2c1-49c7-a545-45f9034e4e4b</Data></Cell>
+<Cell><Data ss:Type="String">1 (4 serving) package instant vanilla pudding</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">671c424e-d2c1-49c7-a545-45f9034e4e4b</Data></Cell>
+<Cell><Data ss:Type="String">1 cup milk</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">671c424e-d2c1-49c7-a545-45f9034e4e4b</Data></Cell>
+<Cell><Data ss:Type="String">1 cup canned pumpkin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">671c424e-d2c1-49c7-a545-45f9034e4e4b</Data></Cell>
+<Cell><Data ss:Type="String">3/4 teaspoon pumpkin pie spice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">671c424e-d2c1-49c7-a545-45f9034e4e4b</Data></Cell>
+<Cell><Data ss:Type="String">1 (8 ounces) container frozen whipped topping thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">671c424e-d2c1-49c7-a545-45f9034e4e4b</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup chopped pecans plus additional pecan halves for garnish, if desired</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2504e1ac-97ff-43fb-b012-f9a74504f503</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounces) package Sara Lee&#174; Lemon Pound Cake frozen</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2504e1ac-97ff-43fb-b012-f9a74504f503</Data></Cell>
+<Cell><Data ss:Type="String">3 cups strawberries sliced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2504e1ac-97ff-43fb-b012-f9a74504f503</Data></Cell>
+<Cell><Data ss:Type="String">3 cups blueberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2504e1ac-97ff-43fb-b012-f9a74504f503</Data></Cell>
+<Cell><Data ss:Type="String">1 (12 ounces) container frozen whipped topping thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">899ee3b5-fdce-43f3-bbc4-f3e620420092</Data></Cell>
+<Cell><Data ss:Type="String">1 slice Sara Lee&#174; Frozen Double Chocolate Pound Cake Slices</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">899ee3b5-fdce-43f3-bbc4-f3e620420092</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon creamy peanut butter</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">899ee3b5-fdce-43f3-bbc4-f3e620420092</Data></Cell>
+<Cell><Data ss:Type="String">1 tablespoon marshmallow cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">899ee3b5-fdce-43f3-bbc4-f3e620420092</Data></Cell>
+<Cell><Data ss:Type="String">1 teaspoon mini semi-sweet chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a5d3b296-9fda-4a8b-8122-9bebfe43522f</Data></Cell>
+<Cell><Data ss:Type="String">1 (16 ounces) package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a5d3b296-9fda-4a8b-8122-9bebfe43522f</Data></Cell>
+<Cell><Data ss:Type="String">16 ounces chocolate almond bark</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a5d3b296-9fda-4a8b-8122-9bebfe43522f</Data></Cell>
+<Cell><Data ss:Type="String">crushed cookies (such as chocolate-cream filled sandwich cookies or shortbread cookies), candy sprinkles, colored sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">97d56482-ae50-409e-978c-b96ad6e35945</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">97d56482-ae50-409e-978c-b96ad6e35945</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup chocolate hazelnut spread divided</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">97d56482-ae50-409e-978c-b96ad6e35945</Data></Cell>
+<Cell><Data ss:Type="String">1/2 (5.3 ounces) container frozen chocolate whipped topping frosting thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">97d56482-ae50-409e-978c-b96ad6e35945</Data></Cell>
+<Cell><Data ss:Type="String">shaved chocolate (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">333f7517-cb36-4a78-9738-904397271eca</Data></Cell>
+<Cell><Data ss:Type="String">1 (10.75 ounces) package Sara Lee&#174; Frozen Pound Cake thawed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">333f7517-cb36-4a78-9738-904397271eca</Data></Cell>
+<Cell><Data ss:Type="String">4 eggs</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">333f7517-cb36-4a78-9738-904397271eca</Data></Cell>
+<Cell><Data ss:Type="String">1 (13.5 ounce) can lite coconut milk</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">333f7517-cb36-4a78-9738-904397271eca</Data></Cell>
+<Cell><Data ss:Type="String">3/4 cup milk</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">333f7517-cb36-4a78-9738-904397271eca</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">333f7517-cb36-4a78-9738-904397271eca</Data></Cell>
+<Cell><Data ss:Type="String">1 teaspoon vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">333f7517-cb36-4a78-9738-904397271eca</Data></Cell>
+<Cell><Data ss:Type="String">1 (6 ounces) cup chocolate chips</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">333f7517-cb36-4a78-9738-904397271eca</Data></Cell>
+<Cell><Data ss:Type="String">1/2 cup shredded coconut</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">333f7517-cb36-4a78-9738-904397271eca</Data></Cell>
+<Cell><Data ss:Type="String">1/4 cup almonds chopped, toasted</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="recipeInstructions">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Saraleedesserts ID</Column>
+<Column ss:Width="100">step</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Saraleedesserts ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">step</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">0e7b3e4b-ebac-48c6-9e68-c793b8baf581</Data></Cell>
+<Cell><Data ss:Type="String">Place chocolate chips, whipping cream and butter in a medium microwave-safe bowl. Microwave on High 1 minute. Stir until chocolate chips are melted and mixture is smooth. (Note: if needed heat 10-30 seconds more in microwave to melt chips.) Stir in lemon peel. Let cool 5 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">0e7b3e4b-ebac-48c6-9e68-c793b8baf581</Data></Cell>
+<Cell><Data ss:Type="String">Drizzle ganache over pound cake. Refrigerate until ready to serve. Cut into slices to serve. Serve with remaining ganache.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">301ad581-c86a-4592-b944-aa997fafe9cb</Data></Cell>
+<Cell><Data ss:Type="String">Toast two slices of thawed pound cake in toaster on lightest setting until lightly browned.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">301ad581-c86a-4592-b944-aa997fafe9cb</Data></Cell>
+<Cell><Data ss:Type="String">Add a scoop vanilla ice cream.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">301ad581-c86a-4592-b944-aa997fafe9cb</Data></Cell>
+<Cell><Data ss:Type="String">Top with sliced strawberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">301ad581-c86a-4592-b944-aa997fafe9cb</Data></Cell>
+<Cell><Data ss:Type="String">Drizzle with chocolate sauce (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc0c008e-6dba-4f52-964b-317dd597ae27</Data></Cell>
+<Cell><Data ss:Type="String">Top New York Style cheesecake with chopped pecans.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc0c008e-6dba-4f52-964b-317dd597ae27</Data></Cell>
+<Cell><Data ss:Type="String">Drizzle with fudge and caramel ice cream toppings.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fc0c008e-6dba-4f52-964b-317dd597ae27</Data></Cell>
+<Cell><Data ss:Type="String">Garnish with chocolate dipped pecans, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1cd74e50-8a53-4b3b-a500-65d8ab2480b3</Data></Cell>
+<Cell><Data ss:Type="String">Slice thawed pound cake.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1cd74e50-8a53-4b3b-a500-65d8ab2480b3</Data></Cell>
+<Cell><Data ss:Type="String">Top with a scoop of vanilla ice cream (or other desired flavor).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1cd74e50-8a53-4b3b-a500-65d8ab2480b3</Data></Cell>
+<Cell><Data ss:Type="String">Drizzle with chocolate sauce and top with slices strawberries.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ace913ee-0e95-42d7-8f34-cd58cbf5533d</Data></Cell>
+<Cell><Data ss:Type="String">Slice thawed pound cake into &#189;-inch slices.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ace913ee-0e95-42d7-8f34-cd58cbf5533d</Data></Cell>
+<Cell><Data ss:Type="String">Spray both sides lightly with cooking spray.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ace913ee-0e95-42d7-8f34-cd58cbf5533d</Data></Cell>
+<Cell><Data ss:Type="String">Grill over medium heat until lightly browned (1-2 minutes per side).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ace913ee-0e95-42d7-8f34-cd58cbf5533d</Data></Cell>
+<Cell><Data ss:Type="String">Top with Greek style lemon yogurt or ice cream and fresh sliced strawberries and blueberries.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2920ef89-1d06-43d2-937c-2823c69857fc</Data></Cell>
+<Cell><Data ss:Type="String">Slice thawed pound cake into &#189;-inch slices.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2920ef89-1d06-43d2-937c-2823c69857fc</Data></Cell>
+<Cell><Data ss:Type="String">Top with mini chocolate chips and mini marshmallows.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2920ef89-1d06-43d2-937c-2823c69857fc</Data></Cell>
+<Cell><Data ss:Type="String">Place on a microwave-safe plate and microwave on high for 15-20 seconds or until marshmallows are slightly melted.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2920ef89-1d06-43d2-937c-2823c69857fc</Data></Cell>
+<Cell><Data ss:Type="String">Top with finely chopped peanuts (optional).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4b3acd68-e8ca-4f29-af58-b818dc102349</Data></Cell>
+<Cell><Data ss:Type="String">Top thawed New York Style Cheesecake with 1 cup apple pie filling combined with &#188; teaspoon ground cinnamon.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4b3acd68-e8ca-4f29-af58-b818dc102349</Data></Cell>
+<Cell><Data ss:Type="String">Drizzle with caramel ice cream topping.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4b3acd68-e8ca-4f29-af58-b818dc102349</Data></Cell>
+<Cell><Data ss:Type="String">Sprinkle with chopped peanuts (optional).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cfb6b83d-c792-40f1-ba72-61985bbbbdae</Data></Cell>
+<Cell><Data ss:Type="String">Thaw and slice pound cake into 1/2 inch thick slices.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cfb6b83d-c792-40f1-ba72-61985bbbbdae</Data></Cell>
+<Cell><Data ss:Type="String">Brush each slice with melted butter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cfb6b83d-c792-40f1-ba72-61985bbbbdae</Data></Cell>
+<Cell><Data ss:Type="String">Top half of the slices with chocolate chips and mini marshmallows.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cfb6b83d-c792-40f1-ba72-61985bbbbdae</Data></Cell>
+<Cell><Data ss:Type="String">Add the remaining slices to form a sandwich.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cfb6b83d-c792-40f1-ba72-61985bbbbdae</Data></Cell>
+<Cell><Data ss:Type="String">Toast on the grill for approx. 3 minutes per side.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa7bd3a0-f53c-4011-9083-a162ef07862f</Data></Cell>
+<Cell><Data ss:Type="String">Thaw and slice pound cake into 1/2 inch thick slices.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa7bd3a0-f53c-4011-9083-a162ef07862f</Data></Cell>
+<Cell><Data ss:Type="String">Brush each slice of pound cake with melted butter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa7bd3a0-f53c-4011-9083-a162ef07862f</Data></Cell>
+<Cell><Data ss:Type="String">Grill pineapple slices until they are golden brown and caramelized on both sides.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa7bd3a0-f53c-4011-9083-a162ef07862f</Data></Cell>
+<Cell><Data ss:Type="String">While pineapple is grilling, place pound cake slices on the grill until lightly golden brown on both sides.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa7bd3a0-f53c-4011-9083-a162ef07862f</Data></Cell>
+<Cell><Data ss:Type="String">Top the pound cake slices with the grilled pineapple and a scoop of vanilla ice cream (or other desired flavor).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa7bd3a0-f53c-4011-9083-a162ef07862f</Data></Cell>
+<Cell><Data ss:Type="String">Finish with a chocolate sauce drizzle.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9a33770-9bf8-4417-b09a-eab02ae1552a</Data></Cell>
+<Cell><Data ss:Type="String">Cut pound cake into 15 slices.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9a33770-9bf8-4417-b09a-eab02ae1552a</Data></Cell>
+<Cell><Data ss:Type="String">Place in the bottom of a 13&#215;9-inch baking pan, cutting to fit, if needed.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9a33770-9bf8-4417-b09a-eab02ae1552a</Data></Cell>
+<Cell><Data ss:Type="String">Spread raspberry jam over pound cake.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9a33770-9bf8-4417-b09a-eab02ae1552a</Data></Cell>
+<Cell><Data ss:Type="String">Place chocolate chips in a medium bowl.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9a33770-9bf8-4417-b09a-eab02ae1552a</Data></Cell>
+<Cell><Data ss:Type="String">In a medium saucepan, bring cream to a boil; pour over chocolate chips.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9a33770-9bf8-4417-b09a-eab02ae1552a</Data></Cell>
+<Cell><Data ss:Type="String">Stir until chocolate chips are melted. Let mixture cool slightly.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9a33770-9bf8-4417-b09a-eab02ae1552a</Data></Cell>
+<Cell><Data ss:Type="String">Pour mixture over cake slices; refrigerate until firm.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9a33770-9bf8-4417-b09a-eab02ae1552a</Data></Cell>
+<Cell><Data ss:Type="String">Cut into bars.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9a33770-9bf8-4417-b09a-eab02ae1552a</Data></Cell>
+<Cell><Data ss:Type="String">Serve chilled; topped with raspberries, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">399efc5c-f7fe-4317-aa17-0ea5829fbff7</Data></Cell>
+<Cell><Data ss:Type="String">Cut pound cake into 15 slices. Place in the bottom of a 13&#215;9-inch baking pan cutting to fit, if needed.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">399efc5c-f7fe-4317-aa17-0ea5829fbff7</Data></Cell>
+<Cell><Data ss:Type="String">Spread peanut butter over pound cake slices. Top evenly with sliced bananas.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">399efc5c-f7fe-4317-aa17-0ea5829fbff7</Data></Cell>
+<Cell><Data ss:Type="String">Prepare pudding according to package directions using milk. Let stand 5 minutes. Spread evenly over bananas.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">399efc5c-f7fe-4317-aa17-0ea5829fbff7</Data></Cell>
+<Cell><Data ss:Type="String">Spread with whipped topping and sprinkle with nuts, if desired. Refrigerate at least 1 hour before serving.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8046d553-3d21-43c6-b814-fdb6e5ee88d7</Data></Cell>
+<Cell><Data ss:Type="String">Preheat oven to 350&#176;F.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8046d553-3d21-43c6-b814-fdb6e5ee88d7</Data></Cell>
+<Cell><Data ss:Type="String">Cut frozen coffee cake lengthwise into 2 layers. Spread sour cream over bottom layer. Replace cake top. Place on baking sheet.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8046d553-3d21-43c6-b814-fdb6e5ee88d7</Data></Cell>
+<Cell><Data ss:Type="String">Bake for 15 minutes. Cut into 6 wedges.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8046d553-3d21-43c6-b814-fdb6e5ee88d7</Data></Cell>
+<Cell><Data ss:Type="String">Stir together remaining ingredients. For each serving; spoon about 2 tablespoons fruit over warm coffee cake wedge.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f173daf-1a65-4b11-aba9-f658c1014ff8</Data></Cell>
+<Cell><Data ss:Type="String">Use the hot fudge topping to make a zigzag pattern of chocolate across the top of the top of the cheesecake.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f173daf-1a65-4b11-aba9-f658c1014ff8</Data></Cell>
+<Cell><Data ss:Type="String">Place eight evenly-spaced dollops of whipped cream around the perimeter of the cheesecake. Then place a dollop of whipped cream in the center of the cheesecake.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f173daf-1a65-4b11-aba9-f658c1014ff8</Data></Cell>
+<Cell><Data ss:Type="String">Place a mini peanut butter cup atop each dollop of whipped cream.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">Mix eggs, milk almond extract, vanilla extract, cinnamon and salt in a large mixing bowl.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">Melt butter on a skillet over medium/low heat.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">Slice pound cake and dunk in egg mixture.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">Cook pound cake on skillet for 2-3 minutes or until golden brown.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a4e10eb2-29da-445f-b139-d36d8eb18948</Data></Cell>
+<Cell><Data ss:Type="String">Top with berries, syrup, and powdered sugar, then serve.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3557a32a-0d59-46ec-a1bd-1f1f82cb0470</Data></Cell>
+<Cell><Data ss:Type="String">Trim the top, bottom and sides of the pound cake just enough to remove the golden brown pieces. Slice the trimmed pound cake into1-inch cubes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3557a32a-0d59-46ec-a1bd-1f1f82cb0470</Data></Cell>
+<Cell><Data ss:Type="String">Place cubes in a single layer on a cookie sheet. Spear each cube with a lollipop stick or a skewer to make a lollipop. Freeze 1-2 hours.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3557a32a-0d59-46ec-a1bd-1f1f82cb0470</Data></Cell>
+<Cell><Data ss:Type="String">When ready to dip and decorate the pops, place each type of sprinkles, crushed candies and crushed cookies into separate bowls.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3557a32a-0d59-46ec-a1bd-1f1f82cb0470</Data></Cell>
+<Cell><Data ss:Type="String">Place chocolate chips in a large glass bowl or measuring cup. Microwave on high for 1 minute or until chocolate starts to melt. Stir until chips are completely melted. If necessary, microwave at additional 10-15 second intervals, stirring just until chocolate is melted.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3557a32a-0d59-46ec-a1bd-1f1f82cb0470</Data></Cell>
+<Cell><Data ss:Type="String">Working quickly, dip each pound cake pop into the chocolate, roll in desired sprinkles, crushed candy or cookies. Place back onto cookie sheet(s). Chill until firm, about 1 hour.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">079e0217-a86f-4f06-bdd7-78c71701398b</Data></Cell>
+<Cell><Data ss:Type="String">Preheat oven to 400&#176;F.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">079e0217-a86f-4f06-bdd7-78c71701398b</Data></Cell>
+<Cell><Data ss:Type="String">Spray a 13&#215;9-inch baking pan with no-stick cooking spray. Cut pound cake into 15 slices. Place in the bottom of a 13&#215;9-inch baking pan cutting to fit, if needed.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">079e0217-a86f-4f06-bdd7-78c71701398b</Data></Cell>
+<Cell><Data ss:Type="String">Sprinkle marshmallows, chocolate chips and peanuts evenly over pound cake.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">079e0217-a86f-4f06-bdd7-78c71701398b</Data></Cell>
+<Cell><Data ss:Type="String">Bake for 8-10 minutes or until marshmallows are melted and lightly toasted.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">079e0217-a86f-4f06-bdd7-78c71701398b</Data></Cell>
+<Cell><Data ss:Type="String">Cool; cut into squares.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">Remove lid; leave pound cake in aluminum pan. Using a long skewer, poke holes into cake every 1/2-inch, wiping skewer occasionally, if needed.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">Combine 1/2 cup of the whipping cream, condensed milk and coconut milk in a 2 cup measuring cup or medium bowl; mixing thoroughly.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">Pour 1/2 cup of milk mixture over cake; allow to absorb into cake.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">Add remaining milk mixture, 1/2 cup at a time, allowing to absorb into cake each time.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">Refrigerate 2 hours or overnight to allow milk mixture to absorb into cake.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">Beat remaining 1 cup whipping cream, sugar and vanilla in a chilled mixing bowl on medium speed until soft peaks form.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">Remove cake from pan; discard any excess milk in pan.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">Place on a serving plate.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">Frost top and sides with whipping cream.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">Sprinkle top with toasted coconut.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">84da92fc-7985-45a1-b094-7529651cf33c</Data></Cell>
+<Cell><Data ss:Type="String">Cut into 8 slices. Serve with banana, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c8e78b84-fbb6-4f39-ae7f-485cbc5054dd</Data></Cell>
+<Cell><Data ss:Type="String">Slice the pound cake into twelve slices about 1/4-inch thick; set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c8e78b84-fbb6-4f39-ae7f-485cbc5054dd</Data></Cell>
+<Cell><Data ss:Type="String">Beat mascarpone cheese, sugar and cream in a medium bowl until soft peaks form.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c8e78b84-fbb6-4f39-ae7f-485cbc5054dd</Data></Cell>
+<Cell><Data ss:Type="String">Spoon the chocolate hazelnut spread into a resealable plastic bag and microwave on High until warmed. Cut the tip of one corner of the bag and drizzle the spread over the cake slices.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c8e78b84-fbb6-4f39-ae7f-485cbc5054dd</Data></Cell>
+<Cell><Data ss:Type="String">Spoon pie filling over the top of the cake slices. Top with the mascarpone mixture.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c8e78b84-fbb6-4f39-ae7f-485cbc5054dd</Data></Cell>
+<Cell><Data ss:Type="String">Toss together chopped basil and the sugar until basil is lightly coated. Sprinkle basil over bruschetta and serve.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">43e76101-b8c2-409f-b64c-949024b88d56</Data></Cell>
+<Cell><Data ss:Type="String">Place cheesecake on a work surface.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">43e76101-b8c2-409f-b64c-949024b88d56</Data></Cell>
+<Cell><Data ss:Type="String">Using a long spatula, spread an event layer of preserves across the top of cheesecake. Decorate with whipped cream.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7c57b15f-e510-4c82-9aa1-eac3587b1f13</Data></Cell>
+<Cell><Data ss:Type="String">Remove cheesecake from pan according to package directions and set on a plate.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7c57b15f-e510-4c82-9aa1-eac3587b1f13</Data></Cell>
+<Cell><Data ss:Type="String">Top with strawberries (or berries of your choosing), slice and serve.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">60cc7b7f-8bb5-41ef-ba0f-8b4a82aa57ef</Data></Cell>
+<Cell><Data ss:Type="String">Wash and dry strawberries, then remove green stem.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">60cc7b7f-8bb5-41ef-ba0f-8b4a82aa57ef</Data></Cell>
+<Cell><Data ss:Type="String">In a medium saucepan, combine the strawberries, sugar, and lemon juice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">60cc7b7f-8bb5-41ef-ba0f-8b4a82aa57ef</Data></Cell>
+<Cell><Data ss:Type="String">Bring to the boil over medium-high heat, simmer for 2 minutes and transfer to a blender.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">60cc7b7f-8bb5-41ef-ba0f-8b4a82aa57ef</Data></Cell>
+<Cell><Data ss:Type="String">Pur&#233;e until smooth, strain, and set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">60cc7b7f-8bb5-41ef-ba0f-8b4a82aa57ef</Data></Cell>
+<Cell><Data ss:Type="String">Store in a sealed container in the refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">60cc7b7f-8bb5-41ef-ba0f-8b4a82aa57ef</Data></Cell>
+<Cell><Data ss:Type="String">Decorate top of Sara Lee&#174; Original Cream Classic Cheesecake with a mixture of berries and pour coulis over the top.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">089c3d30-bae9-4719-9de8-8099deea0812</Data></Cell>
+<Cell><Data ss:Type="String">Trim edges of pound cake and cut into &#189;-inch cubes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">089c3d30-bae9-4719-9de8-8099deea0812</Data></Cell>
+<Cell><Data ss:Type="String">Layer pound cake, pie filling and ice cream alternately in 8 parfait glasses or custard cups.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">089c3d30-bae9-4719-9de8-8099deea0812</Data></Cell>
+<Cell><Data ss:Type="String">Serve immediately.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a97e0538-f41e-4484-b613-cbecd7f55668</Data></Cell>
+<Cell><Data ss:Type="String">Thaw Sara Lee&#174; French Cheesecake according to package directions.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a97e0538-f41e-4484-b613-cbecd7f55668</Data></Cell>
+<Cell><Data ss:Type="String">Place chocolate chips and milk into small saucepan. Cook and stir over low heat until chocolate is barely melted; stir together and cool slightly. Dip strawberries 2/3 of the way into melted chocolate. Place strawberries on waxed paper until chocolate is set.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a97e0538-f41e-4484-b613-cbecd7f55668</Data></Cell>
+<Cell><Data ss:Type="String">Arrange strawberries around outer edge of cheesecake. Drizzle remaining chocolate over top of cheesecake, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">Trim edges of pound cake to form a golden rectangle.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">Slice pound cake in half horizontally. Cut each slice in half to make four rectangles.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">Toast pound cake in toaster on medium setting for one toast cycle.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">Combine granulated sugar and cinnamon in a small bowl.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">Sprinkle evenly over warm pound cake slices.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">Cut each slice into 6 sticks.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">Mix powdered sugar, milk, butter and vanilla in small bowl until smooth.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c104470f-46e3-4fc8-8c87-732107324a1a</Data></Cell>
+<Cell><Data ss:Type="String">Drizzle icing evenly over pound cake sticks.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ec1cce-1483-4319-a6a7-cc701519bcc0</Data></Cell>
+<Cell><Data ss:Type="String">Sprinkle sugar over strawberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ec1cce-1483-4319-a6a7-cc701519bcc0</Data></Cell>
+<Cell><Data ss:Type="String">Cut Sara Lee&#174; Pound Cake into 8 slices, 1/2-inch thick</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ec1cce-1483-4319-a6a7-cc701519bcc0</Data></Cell>
+<Cell><Data ss:Type="String">Place 1 cake slice on each plate</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ec1cce-1483-4319-a6a7-cc701519bcc0</Data></Cell>
+<Cell><Data ss:Type="String">Top each slice with 2 tablespoons strawberries, second cake slice, and 2 tablespoons strawberries.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ec1cce-1483-4319-a6a7-cc701519bcc0</Data></Cell>
+<Cell><Data ss:Type="String">Serve with whipped topping and chocolate curls, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">765cd9f1-76cd-4872-8b64-eb7db6e9847f</Data></Cell>
+<Cell><Data ss:Type="String">Slice the pound cake horizontally into three even rectangular sheets.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">765cd9f1-76cd-4872-8b64-eb7db6e9847f</Data></Cell>
+<Cell><Data ss:Type="String">Using the 2 inch heart-shaped cookie cutter, cut three hearts out of each sheet.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">765cd9f1-76cd-4872-8b64-eb7db6e9847f</Data></Cell>
+<Cell><Data ss:Type="String">Mix 2-3 drops of food coloring into the white frosting to turn light pink.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">765cd9f1-76cd-4872-8b64-eb7db6e9847f</Data></Cell>
+<Cell><Data ss:Type="String">Spread frosting onto the top and sides of each heart and put together to form heart sandwiches.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">765cd9f1-76cd-4872-8b64-eb7db6e9847f</Data></Cell>
+<Cell><Data ss:Type="String">Write out cute sayings on top with the decorator gel such as “Be Mine</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2b8d2027-b893-46e3-b7eb-9b7eb5f9ef2f</Data></Cell>
+<Cell><Data ss:Type="String">Remove cheesecake from pan and set on plate.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2b8d2027-b893-46e3-b7eb-9b7eb5f9ef2f</Data></Cell>
+<Cell><Data ss:Type="String">Pour whipping cream into a bowl and microwave on high for 45-55 seconds, or until cream starts to simmer.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2b8d2027-b893-46e3-b7eb-9b7eb5f9ef2f</Data></Cell>
+<Cell><Data ss:Type="String">Add chocolate and let stand for 1 minute. Stir until smooth.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2b8d2027-b893-46e3-b7eb-9b7eb5f9ef2f</Data></Cell>
+<Cell><Data ss:Type="String">Pour chocolate mixture on top of cheesecake and tilt plate back and forth to cover evenly. Let stand 45-60 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2b8d2027-b893-46e3-b7eb-9b7eb5f9ef2f</Data></Cell>
+<Cell><Data ss:Type="String">Drizzle white or milk chocolate on top and garnish with raspberries. Serve immediately or refrigerate until ready to serve.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59a10fe7-6db0-43f8-9076-76eb40bf9d3d</Data></Cell>
+<Cell><Data ss:Type="String">Place sweetened condensed milk and chocolate chips in a large microwaveable bowl. Microwave on HIGH for 2 minutes, stirring after 1 minute</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59a10fe7-6db0-43f8-9076-76eb40bf9d3d</Data></Cell>
+<Cell><Data ss:Type="String">Stir with wire whisk until chocolate is completely melted and mixture is well blended. Stir in whipping cream and vanilla; mixing until well blended. Serve with pound cake.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fb0940d3-b3bc-42e9-8544-35eebdce16fc</Data></Cell>
+<Cell><Data ss:Type="String">Slice pound cake, pineapple and cantaloupe into approximately 1 inch chunks and place on skewers, alternating cake and fruit.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fb0940d3-b3bc-42e9-8544-35eebdce16fc</Data></Cell>
+<Cell><Data ss:Type="String">Meanwhile, to create the sauce, bring rum, brown sugar and vanilla to a slow boil and reduce heat to simmer until alcohol is reduced.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fb0940d3-b3bc-42e9-8544-35eebdce16fc</Data></Cell>
+<Cell><Data ss:Type="String">Brush each kabob with rum sauce and sprinkle with coconut.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fb0940d3-b3bc-42e9-8544-35eebdce16fc</Data></Cell>
+<Cell><Data ss:Type="String">Place skewers on clean, hot grill and heat on each side just until golden, 2-3 minutes. If using wooden skewers, soak skewers in a bowl of water for 30 minutes before placing on hot grill.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fb0940d3-b3bc-42e9-8544-35eebdce16fc</Data></Cell>
+<Cell><Data ss:Type="String">*Place a bowl of vanilla yogurt on the side for dipping.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">In bowl of electric mixer using paddle attachment, mix cream cheese, butter, confectioner’s sugar, orange extract, orange juice and zest of half of an orange until smooth.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">Meanwhile, create glaze by bringing sugar and water to a boil in saucepan over medium-high heat. Peel half of an orange with a vegetable peeler being careful to avoid the white part of the orange.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">Add orange peels and reduce to simmer for 8-10 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">Remove peels from glaze, roll in sugar and let dry for 10 – 15 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">Drizzle remaining orange glaze over top of pound cake.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">Spread orange cream on top and sides of cake. Add coconut flakes if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c9f111d4-2cc1-4628-9b43-19de30da16f0</Data></Cell>
+<Cell><Data ss:Type="String">Garnish top of cake with slices of remaining orange, a sprinkle of orange zest and a few candied orange peels.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">53c4e2a2-7110-4938-9adc-40de6746d9a7</Data></Cell>
+<Cell><Data ss:Type="String">Trim the top, bottom and sides of the pound cake just enough to remove the golden brown pieces. Slice the trimmed pound cake in half horizontally making it into two even, approximately 1</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">35545539-bf4f-4d75-95eb-96fe94480340</Data></Cell>
+<Cell><Data ss:Type="String">Combine chocolate chips and cream in small saucepan. Cook and stir over low heat until chocolate is melted.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">35545539-bf4f-4d75-95eb-96fe94480340</Data></Cell>
+<Cell><Data ss:Type="String">Stir in almond extract.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">35545539-bf4f-4d75-95eb-96fe94480340</Data></Cell>
+<Cell><Data ss:Type="String">Serve over pound cake slices (1 pound cake slice with about 2 tablespoons chocolate sauce). Sprinkle with almond slices, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">54045cda-506d-4a4e-a604-26d88435a3b7</Data></Cell>
+<Cell><Data ss:Type="String">Cut pound cake into 16 slices.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">54045cda-506d-4a4e-a604-26d88435a3b7</Data></Cell>
+<Cell><Data ss:Type="String">Combine peanut butter, cream cheese and ice cream topping, mixing until well blended. Stir in butterscotch chips, pecans and banana.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">54045cda-506d-4a4e-a604-26d88435a3b7</Data></Cell>
+<Cell><Data ss:Type="String">Spread one pound cake slice with peanut butter mixture; cover with second slice of pound cake. Repeat with remaining ingredients.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">54045cda-506d-4a4e-a604-26d88435a3b7</Data></Cell>
+<Cell><Data ss:Type="String">Brush both sides of the panini with butter. Grill sandwich on a panini grill about 2-3 minutes or until crisp and golden brown.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a545b87-8cf3-4bf0-97ba-2202e97fe318</Data></Cell>
+<Cell><Data ss:Type="String">Bake pie as directed for 60 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a545b87-8cf3-4bf0-97ba-2202e97fe318</Data></Cell>
+<Cell><Data ss:Type="String">Combine melted butter, brown sugar, flour and pecans in small bowl mixing until well blended.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a545b87-8cf3-4bf0-97ba-2202e97fe318</Data></Cell>
+<Cell><Data ss:Type="String">Remove pie from oven. Sprinkle topping evenly over pie. Bake pie an additional 10 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a545b87-8cf3-4bf0-97ba-2202e97fe318</Data></Cell>
+<Cell><Data ss:Type="String">Cool at least 2 hours.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a545b87-8cf3-4bf0-97ba-2202e97fe318</Data></Cell>
+<Cell><Data ss:Type="String">Serve each slice of pie with a dollop of whipped cream sprinkled with cinnamon, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c4ef7087-3fc7-4d90-a176-ece1b73b5d2f</Data></Cell>
+<Cell><Data ss:Type="String">Trim edges of pound cake and slice horizontally into 3 slices.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c4ef7087-3fc7-4d90-a176-ece1b73b5d2f</Data></Cell>
+<Cell><Data ss:Type="String">Using a 2-inch heart-shaped cookie cutter, cut each slice into hearts. (You can use a knife and free form if you do not have a heart-shaped cookie cutter.)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c4ef7087-3fc7-4d90-a176-ece1b73b5d2f</Data></Cell>
+<Cell><Data ss:Type="String">Combine half of the raspberries, sugar and lemon juice in a medium bowl. Crush remaining raspberries with a fork and fold into raspberry mixture.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c4ef7087-3fc7-4d90-a176-ece1b73b5d2f</Data></Cell>
+<Cell><Data ss:Type="String">Divide raspberry mixture among 4-6 plates. Place a large dollop of whipped topping in the center and top each serving with a few pound cake hearts. Serve immediately.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">Cut cake into twelve 1/4-inch slices. Line the bottom of an 8 x 8-inch square baking dish with 6 of the cake slices.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">Combine lemonade concentrate and liqueur, if desired, in a glass measuring cup or bowl.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">Brush half of the cake slices with half of lemonade mixture. Set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">Place mascarpone cheese, cream, lemon curd, marshmallow cream and zest in a large bowl. Beat until smooth.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">Spread cake slices with half of lemon cream filling. Top with the remaining 6 cake slices. Brush with remaining syrup and spread with remaining cream filling.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">484859fb-0e63-4c9e-8498-f209e3c908e0</Data></Cell>
+<Cell><Data ss:Type="String">Refrigerate for 1 hour to overnight. Garnish with lemon zest and fresh raspberries, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">Cut pound cake into 1-inch cubes. Set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">Drain pineapple; reserving juice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">Place pudding mix, whipping cream, sour cream, sugar, reserved pineapple juice and 1 tablespoon of the coconut rum in a large bowl. Beat at medium-high speed with an electric mixer until stiff peaks form.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">Combine remaining 1 tablespoon of coconut rum and ice cream topping in microwave-safe bowl. Microwave on High until warmed.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">Layer pound cake cubes in 4 Martini or dessert glasses. Drizzle caramel topping mixture over pound cake. Top with coconut cream mixture and bananas.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b228c323-172c-460f-92c3-888d0a281280</Data></Cell>
+<Cell><Data ss:Type="String">Garnish with pineapple tidbits, toasted coconut and macadamia nuts.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6a493ad5-123f-4e0e-8472-dc80e28e31e6</Data></Cell>
+<Cell><Data ss:Type="String">Lightly sprinkle both sides of pound cake with cinnamon sugar if desired, shaking off any excess sugar. Toast in oven or toaster, or place on a grill for a few seconds.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6a493ad5-123f-4e0e-8472-dc80e28e31e6</Data></Cell>
+<Cell><Data ss:Type="String">Spread with favorite toppings such as peanut butter, jam, jelly or cream cheese spread and top with sliced fruit and /or chocolate chips, coconut and nuts.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">497a9c76-ad06-42e8-a1fb-5b85daeacd13</Data></Cell>
+<Cell><Data ss:Type="String">Cut pound cake into 1-inch cubes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">497a9c76-ad06-42e8-a1fb-5b85daeacd13</Data></Cell>
+<Cell><Data ss:Type="String">Prepare pudding according to package directions using milk. Let stand 5 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">497a9c76-ad06-42e8-a1fb-5b85daeacd13</Data></Cell>
+<Cell><Data ss:Type="String">Layer pound cake, berries, pudding and whipped topping alternately in 8 dessert or wine glasses. Serve immediately.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9df574d-0e57-4dd2-bb1d-e0396a86ac04</Data></Cell>
+<Cell><Data ss:Type="String">Combine raspberries and sugar in blender container. Cover and blend on high until smooth. Press through sieve to remove seeds. Place in small saucepan.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9df574d-0e57-4dd2-bb1d-e0396a86ac04</Data></Cell>
+<Cell><Data ss:Type="String">Mix cornstarch with cold water. Add to raspberries.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9df574d-0e57-4dd2-bb1d-e0396a86ac04</Data></Cell>
+<Cell><Data ss:Type="String">Bring to a boil stirring constantly. Boil for 1 minute or until thickened. Refrigerate for 1 hour before serving.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b9df574d-0e57-4dd2-bb1d-e0396a86ac04</Data></Cell>
+<Cell><Data ss:Type="String">Stir in berries; serve over pound cake slices (1 pound cake slice with about 2 tablespoons raspberry sauce).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">13d687d2-39a2-44f6-9c07-1a0ea4d588b1</Data></Cell>
+<Cell><Data ss:Type="String">Thaw 2 pound cake slices according to package directions. Cut thawed pound cake into 1-inch cubes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">13d687d2-39a2-44f6-9c07-1a0ea4d588b1</Data></Cell>
+<Cell><Data ss:Type="String">Mix yogurt with 1/2 cup light whipped topping, reserving remaining whipped topping for later.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">13d687d2-39a2-44f6-9c07-1a0ea4d588b1</Data></Cell>
+<Cell><Data ss:Type="String">Put two parfait glasses on a work surface. Layer 1/4 of the pound cake cubes into each glass. Top each with 1 tablespoon sliced fresh peaches and whole raspberries, and 1/4 yogurt mixture. Repeat layers, ending with yogurt.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">13d687d2-39a2-44f6-9c07-1a0ea4d588b1</Data></Cell>
+<Cell><Data ss:Type="String">Top with remaining light whipped topping and toasted almonds.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">13d687d2-39a2-44f6-9c07-1a0ea4d588b1</Data></Cell>
+<Cell><Data ss:Type="String">Tip: You can make this recipe for more people, by scaling up the ingredients and presenting in a pretty glass bowl.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">Preheat oven to 325&#176;F. Spray a round 2 quart baking dish with cooking spray.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">Whisk eggs, half and half, vanilla, 1 cup of the brown sugar, cinnamon, nutmeg and salt in a large bowl until well blended.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">Combine butter, remaining 1/3 cup brown sugar and pecans in a small bowl until combined.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">Sprinkle 1/3 of the brown-sugar mixture on bottom of the prepared pan. Top with 1/2 of the toasted pound cake and banana; repeat layers.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">Pour egg mixture evenly over the cake. Press down the cake cubes with the back of a spoon to cover; let stand 10 minutes. Sprinkle with remaining brown sugar mixture.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">85fbcdba-8e22-49b6-a1a6-290aec890583</Data></Cell>
+<Cell><Data ss:Type="String">Cover the baking dish with foil. Bake 30 minutes. Remove cover and continue baking 30 minutes or until no liquid egg remains. Let cool for 10 minutes before serving. Garnish with whipped cream and a sprinkle of nutmeg, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d29cea9e-0800-487e-b431-5dacdacdd4b2</Data></Cell>
+<Cell><Data ss:Type="String">Slice frozen pound cake into &#189;-inch slices.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d29cea9e-0800-487e-b431-5dacdacdd4b2</Data></Cell>
+<Cell><Data ss:Type="String">Fill with ice cream and drizzle caramel or chocolate sauce, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d29cea9e-0800-487e-b431-5dacdacdd4b2</Data></Cell>
+<Cell><Data ss:Type="String">Top with second pound cake slice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1892e462-1077-4bd5-81ec-eb1388690b5d</Data></Cell>
+<Cell><Data ss:Type="String">Crumble cheesecake in a large mixing bowl.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1892e462-1077-4bd5-81ec-eb1388690b5d</Data></Cell>
+<Cell><Data ss:Type="String">Mix in graham crackers and apple cider.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1892e462-1077-4bd5-81ec-eb1388690b5d</Data></Cell>
+<Cell><Data ss:Type="String">In a smaller bowl, mix together cinnamon and sugar.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1892e462-1077-4bd5-81ec-eb1388690b5d</Data></Cell>
+<Cell><Data ss:Type="String">Grease hands and form the cheesecake mixture into balls.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1892e462-1077-4bd5-81ec-eb1388690b5d</Data></Cell>
+<Cell><Data ss:Type="String">Roll in cinnamon sugar mixture.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1892e462-1077-4bd5-81ec-eb1388690b5d</Data></Cell>
+<Cell><Data ss:Type="String">Plate and drizzle with caramel sauce, then serve.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">Preheat oven at 375&#176;F.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">Slice pound cake into 3 slices lengthwise. Place on a cutting board and cut using a 3 inch round cookie cutter; cut 3 circles from each slice; cut each circle horizontally in half making 18 circles.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">Place circles in a single layer on an ungreased, large-sized baking sheet(s). Brush circles with melted butter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">Bake 10 minutes or until toasted. Cool completely.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">Place cream cheese, peanut butter and vanilla in a large mixing bowl. Beat with an electric mixer on medium speed until smooth. Slowly add powdered sugar and mix until combined.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">Refrigerate 5-10 minutes or until slightly thickened.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">Spread peanut butter mixture on the bottom of 9 toasted pound cake circles. Top with remaining circles forming whoopie pies.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40fcbc3e-6785-4217-a948-e5e94885ec8f</Data></Cell>
+<Cell><Data ss:Type="String">Melt chocolate chips according to package directions. Dip one end of each whoopie pie into melted chocolate; then dip in peanuts. Place on a parchment paper lined baking sheet and place in refrigerator for 10 minutes or until chocolate is set.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">de4815bd-3d70-4e4c-a711-286bf5aeda3d</Data></Cell>
+<Cell><Data ss:Type="String">Cut pound cake into 1-inch cubes. Layer half of the cake into a 3-quart serving bowl. Sprinkle pound cake with 2 tablespoons orange juice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">de4815bd-3d70-4e4c-a711-286bf5aeda3d</Data></Cell>
+<Cell><Data ss:Type="String">Prepare pudding according to package directions using milk. Let stand 5 minutes. Spread half the pudding over cake. Top with one third of the whipped topping and half of the pie filling. Repeat layers ending with pie filling on top.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">de4815bd-3d70-4e4c-a711-286bf5aeda3d</Data></Cell>
+<Cell><Data ss:Type="String">Cover; refrigerate at least 1 hour before serving.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">de4815bd-3d70-4e4c-a711-286bf5aeda3d</Data></Cell>
+<Cell><Data ss:Type="String">Spread with remaining whipped topping and sprinkle with nuts, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">de4815bd-3d70-4e4c-a711-286bf5aeda3d</Data></Cell>
+<Cell><Data ss:Type="String">Serve immediately or refrigerate until ready to serve.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">826efeb2-77a3-4a24-860c-7ac7dd64b3d4</Data></Cell>
+<Cell><Data ss:Type="String">Using a melon baller or 1-inch scoop, scoop small balls out of the cheesecake.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">826efeb2-77a3-4a24-860c-7ac7dd64b3d4</Data></Cell>
+<Cell><Data ss:Type="String">Place cheesecake balls in a single layer on a cookie sheet. Spear each ball with a lollipop stick or a skewer to make a lollipop. Freeze 1-2 hours.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">826efeb2-77a3-4a24-860c-7ac7dd64b3d4</Data></Cell>
+<Cell><Data ss:Type="String">When ready to dip and decorate the pops, place each type of sprinkles, crushed candies and crushed cookies into separate bowls.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">826efeb2-77a3-4a24-860c-7ac7dd64b3d4</Data></Cell>
+<Cell><Data ss:Type="String">Place &#190; of chocolate chips into a large glass bowl. Microwave on low power for 5-7 minutes, stirring frequently, until chips are completely melted. Remove chocolate from microwave and stir in remaining chips, continuing to stir until chips are completely melted.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">826efeb2-77a3-4a24-860c-7ac7dd64b3d4</Data></Cell>
+<Cell><Data ss:Type="String">Dip each cheesecake pop into the chocolate, then roll in desired sprinkle, candy or cookie bowl. Place back onto the cookie sheet. When you have decorated all the pops, chill until firm, about 1 hour.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9397c7ea-d6f0-4a3a-9f9e-7ec4f0afed9e</Data></Cell>
+<Cell><Data ss:Type="String">Using an ice cream scoop, scoop out cheesecake, placing scoop into a parfait glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9397c7ea-d6f0-4a3a-9f9e-7ec4f0afed9e</Data></Cell>
+<Cell><Data ss:Type="String">Top cheesecake with first topping, place another scoop of cheesecake on top, then drizzle with second topping (or more of the first) and whipped cream.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">76ad0e0c-be8a-4f5d-807f-a0d55da308f9</Data></Cell>
+<Cell><Data ss:Type="String">Remove lid; leave pound cake in aluminum pan. Using a long skewer, poke holes into cake every 1/2-inch, wiping skewer occasionally, if needed.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">76ad0e0c-be8a-4f5d-807f-a0d55da308f9</Data></Cell>
+<Cell><Data ss:Type="String">Place margarita mix and tequila or water in a small saucepan; bring to a boil. Remove from heat.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">76ad0e0c-be8a-4f5d-807f-a0d55da308f9</Data></Cell>
+<Cell><Data ss:Type="String">Add gelatin; stir until completely dissolved (about 2 minutes).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">76ad0e0c-be8a-4f5d-807f-a0d55da308f9</Data></Cell>
+<Cell><Data ss:Type="String">Pour over cake. Cover loosely. Refrigerate 3 hours or until gelatin is set.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">76ad0e0c-be8a-4f5d-807f-a0d55da308f9</Data></Cell>
+<Cell><Data ss:Type="String">Remove cake from pan; discard any gelatin mixture. Place on a serving plate. Frost top and sides with whipped topping. Cut into slices and garnish with green sugar and lime slices, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e1351dd2-dd64-4720-a593-b806e57c4693</Data></Cell>
+<Cell><Data ss:Type="String">Combine ice cream, milk and vanilla extract in your blender. Puree until smooth, about 1 minute.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e1351dd2-dd64-4720-a593-b806e57c4693</Data></Cell>
+<Cell><Data ss:Type="String">Coarsely chop cheesecake into chunks. Add to blender and pulse 10-15 times, to incorporate cheesecake into milkshake.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e2c9cbe2-e8b7-45a3-9a4f-14ec5965df23</Data></Cell>
+<Cell><Data ss:Type="String">Preheat oven to 350&#176;F. Line 6 muffin cups with cupcake liners.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e2c9cbe2-e8b7-45a3-9a4f-14ec5965df23</Data></Cell>
+<Cell><Data ss:Type="String">Cut pound cake into 1-inch cubes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e2c9cbe2-e8b7-45a3-9a4f-14ec5965df23</Data></Cell>
+<Cell><Data ss:Type="String">Whisk cream, sugar and eggs until well combined in a large mixing bowl. Add cake; mix lightly until well combined. Divide mixture evenly into muffin cups.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e2c9cbe2-e8b7-45a3-9a4f-14ec5965df23</Data></Cell>
+<Cell><Data ss:Type="String">Bake 20-25 minutes or until golden brown and toothpick inserted in center comes out clean.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e2c9cbe2-e8b7-45a3-9a4f-14ec5965df23</Data></Cell>
+<Cell><Data ss:Type="String">Combine caramel sauce and sea salt in a small bowl. Drizzle over cakes. Cool at least 10 minutes before serving.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3fc83b9-4732-48fe-ad7c-937f4b4cbded</Data></Cell>
+<Cell><Data ss:Type="String">Using an ice cream scoop, scoop out cheesecake, placing each scoop into a parfait glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3fc83b9-4732-48fe-ad7c-937f4b4cbded</Data></Cell>
+<Cell><Data ss:Type="String">Top cheesecake with fudge, caramel, pecans, and whipped cream. Place a cherry on top!</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47ff6e25-0099-4e97-bafd-b7f56110db41</Data></Cell>
+<Cell><Data ss:Type="String">Cut frozen coffee cake into two layers.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47ff6e25-0099-4e97-bafd-b7f56110db41</Data></Cell>
+<Cell><Data ss:Type="String">Place bottom layer into foil pan. Cover with apple pie filling. Replace top.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47ff6e25-0099-4e97-bafd-b7f56110db41</Data></Cell>
+<Cell><Data ss:Type="String">Heat coffee cake according to package directions. Invert cake on lid and unright onto serving plate. Cut into 6 wedges for serving.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f287f9c-869f-4b9a-8df8-1ce9cbb35de6</Data></Cell>
+<Cell><Data ss:Type="String">Cut pound cake into 10 slices. Cut each slice diagonally in half forming 20 triangles. Place on parchment or waxed paper.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f287f9c-869f-4b9a-8df8-1ce9cbb35de6</Data></Cell>
+<Cell><Data ss:Type="String">Place caramels, 1/2 cup whipping cream and cream of tartar in top of a double broiler pan or large metal bowl. Place over a pan of simmering water. Cook and stir until caramels are melted and sauce is creamy.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f287f9c-869f-4b9a-8df8-1ce9cbb35de6</Data></Cell>
+<Cell><Data ss:Type="String">Combine chocolate chips with remaining whipping cream in a small sauce pan; cook and stir until chocolate is melted.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9f287f9c-869f-4b9a-8df8-1ce9cbb35de6</Data></Cell>
+<Cell><Data ss:Type="String">Spoon about 1 tablespoon caramel sauce over each pound cake triangle. Drizzle with chocolate sauce. Break up pretzels and sprinkle over top of caramel-chocolate sauce. Sprinkle each slice with sea salt. Serve immediately or refrigerate until set.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2f0f41f9-6bcd-477e-8f73-92b917e99710</Data></Cell>
+<Cell><Data ss:Type="String">Preheat oven to 400&#176;F.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2f0f41f9-6bcd-477e-8f73-92b917e99710</Data></Cell>
+<Cell><Data ss:Type="String">Spray a 13&#215;9-inch baking pan with no-stick cooking spray.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2f0f41f9-6bcd-477e-8f73-92b917e99710</Data></Cell>
+<Cell><Data ss:Type="String">Cut pound cake into 12 slices.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2f0f41f9-6bcd-477e-8f73-92b917e99710</Data></Cell>
+<Cell><Data ss:Type="String">Line pan with cake slices, cutting to fit, if needed.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2f0f41f9-6bcd-477e-8f73-92b917e99710</Data></Cell>
+<Cell><Data ss:Type="String">Combine oatmeal and brown sugar in medium bowl; mix well.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2f0f41f9-6bcd-477e-8f73-92b917e99710</Data></Cell>
+<Cell><Data ss:Type="String">Add butter and stir until mixture is crumbly.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2f0f41f9-6bcd-477e-8f73-92b917e99710</Data></Cell>
+<Cell><Data ss:Type="String">Sprinkle evenly over pound cake and top with chocolate chips.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2f0f41f9-6bcd-477e-8f73-92b917e99710</Data></Cell>
+<Cell><Data ss:Type="String">Bake 8-10 minutes or until lightly brown.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2f0f41f9-6bcd-477e-8f73-92b917e99710</Data></Cell>
+<Cell><Data ss:Type="String">Cool. Cut into bars.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">26bd1366-c478-4c19-860d-230be6d8961e</Data></Cell>
+<Cell><Data ss:Type="String">Preheat oven to 425&#176;F.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">26bd1366-c478-4c19-860d-230be6d8961e</Data></Cell>
+<Cell><Data ss:Type="String">Slice pound cake in half horizontally. Place the two halves in an 8&#215;8-inch baking pan.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">26bd1366-c478-4c19-860d-230be6d8961e</Data></Cell>
+<Cell><Data ss:Type="String">Combine apple pie filling and spices in a medium bowl.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">26bd1366-c478-4c19-860d-230be6d8961e</Data></Cell>
+<Cell><Data ss:Type="String">Spoon apple mixture over pound cake. Sprinkle with nuts.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">26bd1366-c478-4c19-860d-230be6d8961e</Data></Cell>
+<Cell><Data ss:Type="String">Bake for 15 minutes or until warm. Serve warm with a scoop of ice cream, if desired.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e8398dcf-791f-4724-b341-627718cf8563</Data></Cell>
+<Cell><Data ss:Type="String">Slice pound cake into six slices and place on serving plates.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e8398dcf-791f-4724-b341-627718cf8563</Data></Cell>
+<Cell><Data ss:Type="String">Combine Mascarpone cheese, Greek yogurt and honey; mix together until combined.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e8398dcf-791f-4724-b341-627718cf8563</Data></Cell>
+<Cell><Data ss:Type="String">Spread each pound cake with yogurt mixture. Top with fruit and granola.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e8398dcf-791f-4724-b341-627718cf8563</Data></Cell>
+<Cell><Data ss:Type="String">Serve immediately.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">336348dc-ca99-4f30-af5b-d38222fe1fe2</Data></Cell>
+<Cell><Data ss:Type="String">Cut pound cake lengthwise into 3 layers. Set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">336348dc-ca99-4f30-af5b-d38222fe1fe2</Data></Cell>
+<Cell><Data ss:Type="String">Place chocolate chips in a medium bowl. Bring 1/2 cup of the whipping cream just to a boil in a small saucepan. Remove from heat and pour over chocolate chips; let stand 3 minutes. Add 2 teaspoons of the espresso powder; whisk until chocolate is melted and mixture is smooth. Cool 15 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">336348dc-ca99-4f30-af5b-d38222fe1fe2</Data></Cell>
+<Cell><Data ss:Type="String">Place remaining 1 cup whipping cream, sugar, remaining 3 teaspoons espresso powder and vanilla into a chilled mixing bowl; beat until stiff peaks form. Cover bowl and refrigerate until needed.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">336348dc-ca99-4f30-af5b-d38222fe1fe2</Data></Cell>
+<Cell><Data ss:Type="String">To assemble cake, place bottom layer of cake onto a serving plate. Spread with 1/3 of the cream filling and sprinkle with 1 tablespoon of the toffee bits. Repeat 2 times.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">336348dc-ca99-4f30-af5b-d38222fe1fe2</Data></Cell>
+<Cell><Data ss:Type="String">Drizzle ganache mixture over cake. Sprinkle with remaining 1 tablespoon toffee bits, if desired. Freeze for 30 minutes or until chocolate sets. Cut into slices to serve. Store wrapped in the freezer.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">818caecb-606f-4977-96da-a014f2be01b3</Data></Cell>
+<Cell><Data ss:Type="String">Trim the top, bottom and sides of the pound cake just enough to remove the golden brown pieces. Slice the trimmed pound cake into1/2-inch thick slices. Cut each slice into &#189;-inch strips. These are the “fries.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3129be17-7aee-446a-8ef1-5d69485c1a82</Data></Cell>
+<Cell><Data ss:Type="String">Toast two slices of thawed pound cake in toaster on lightest setting until lightly browned.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3129be17-7aee-446a-8ef1-5d69485c1a82</Data></Cell>
+<Cell><Data ss:Type="String">Add a scoop of warm apple pie filling.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3129be17-7aee-446a-8ef1-5d69485c1a82</Data></Cell>
+<Cell><Data ss:Type="String">Top with a scoop of vanilla ice cream.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3129be17-7aee-446a-8ef1-5d69485c1a82</Data></Cell>
+<Cell><Data ss:Type="String">Add dollop of whipped cream and a sprinkling of toasted pecans (optional).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">238d7acd-b0bf-46a1-956e-eb23694e7b4b</Data></Cell>
+<Cell><Data ss:Type="String">Cut pound cake into 12 slices.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">238d7acd-b0bf-46a1-956e-eb23694e7b4b</Data></Cell>
+<Cell><Data ss:Type="String">Grill pineapple slices over medium heat for 2-3 minutes per side or until lightly browned. Remove from heat. Brush both sides of pound cake with melted butter. Grill over medium heat 1-2 minutes per side or until lightly browned.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">238d7acd-b0bf-46a1-956e-eb23694e7b4b</Data></Cell>
+<Cell><Data ss:Type="String">Beat cream, sugar and vanilla in large mixing bowl with an electric mixer until stiff peaks form.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">238d7acd-b0bf-46a1-956e-eb23694e7b4b</Data></Cell>
+<Cell><Data ss:Type="String">Place 1 slice of pound cake on 6 serving plates. Top each with pineapple ring, dollop of whipped cream, another slice of pound cake and additional whipped cream. Drizzle each serving with caramel sauce; sprinkle with salt and pecans. Serve immediately.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">992a252a-6f14-4efa-9782-81ee9dc1f654</Data></Cell>
+<Cell><Data ss:Type="String">Cut pound cake into 8 slices. Spray a Panini press with cooking spray. Toast pound cake in Panini press or in oven at 350&#176;F for 10 minutes or until lightly browned. Set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">992a252a-6f14-4efa-9782-81ee9dc1f654</Data></Cell>
+<Cell><Data ss:Type="String">Combine balsamic vinegar and 2 tablespoons of the sugar in a small saucepan. Cook and stir over medium heat for 5 minutes. Remove from heat and set aside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">992a252a-6f14-4efa-9782-81ee9dc1f654</Data></Cell>
+<Cell><Data ss:Type="String">Sprinkle strawberries with remaining tablespoon of sugar.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">992a252a-6f14-4efa-9782-81ee9dc1f654</Data></Cell>
+<Cell><Data ss:Type="String">Place toasted pound cake on serving plates. Top each slice with strawberries and goat cheese. Drizzle with vinegar mixture and sprinkle with cilantro, if desired. Serve immediately.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c2beb760-44f1-456b-b491-8922c9e2c371</Data></Cell>
+<Cell><Data ss:Type="String">Cut pound cake horizontally into 2 layers.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c2beb760-44f1-456b-b491-8922c9e2c371</Data></Cell>
+<Cell><Data ss:Type="String">Using a fluted or round cookie cutter, cut pound cake into circles.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c2beb760-44f1-456b-b491-8922c9e2c371</Data></Cell>
+<Cell><Data ss:Type="String">Using the tip of a spoon or your thumb, make indent in the center of each round shape.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c2beb760-44f1-456b-b491-8922c9e2c371</Data></Cell>
+<Cell><Data ss:Type="String">Fill a sandwich bag with caramel sauce and then snip a very small corner off of the bag. Using this bag, fill each circle with caramel. Make sure to leave some of the cake showing on the edge as the crust.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c2beb760-44f1-456b-b491-8922c9e2c371</Data></Cell>
+<Cell><Data ss:Type="String">Using a new sandwich bag, repeat the above process with melted chocolate chips or chocolate sauce. Drizzle across the caramel sauce.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c2beb760-44f1-456b-b491-8922c9e2c371</Data></Cell>
+<Cell><Data ss:Type="String">Top the pound cake pie with chopped pecans and mini chocolate chips.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">671c424e-d2c1-49c7-a545-45f9034e4e4b</Data></Cell>
+<Cell><Data ss:Type="String">Cut pound cake horizontally into 3 layers.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">671c424e-d2c1-49c7-a545-45f9034e4e4b</Data></Cell>
+<Cell><Data ss:Type="String">Combine milk and pudding in a large bowl; mixing until well blended. Let stand 2-5 minutes or until pudding thickens. Stir in pumpkin and pie spice; mixing until well blended. Fold in whipped topping and chopped pecans.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">671c424e-d2c1-49c7-a545-45f9034e4e4b</Data></Cell>
+<Cell><Data ss:Type="String">Frost bottom layer with pumpkin mixture. Place second layer on top and frost with pumpkin mixture. Top with third layer; frost cake with remaining pumpkin mixture.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">671c424e-d2c1-49c7-a545-45f9034e4e4b</Data></Cell>
+<Cell><Data ss:Type="String">Top with pecan halves, if desired. Refrigerate at least 1-4 hours, before serving.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">671c424e-d2c1-49c7-a545-45f9034e4e4b</Data></Cell>
+<Cell><Data ss:Type="String">Cut into 8 slices to serve.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2504e1ac-97ff-43fb-b012-f9a74504f503</Data></Cell>
+<Cell><Data ss:Type="String">Slice pound cake horizontally into 3 layers. Using a cookie cutter of a preferred shape, cut pound cake into shapes. Cut remaining pound cake into 1-inch pieces or into smaller shapes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2504e1ac-97ff-43fb-b012-f9a74504f503</Data></Cell>
+<Cell><Data ss:Type="String">Place half of the cut-up pound cake pieces on the bottom of a trifle or serving bowl. Place cut-out shapes on side of bowl.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2504e1ac-97ff-43fb-b012-f9a74504f503</Data></Cell>
+<Cell><Data ss:Type="String">Top with half of the fruit and whipped topping; repeat layers. Garnish with small shapes, if desired. Serve immediately or store in refrigerator until ready to serve.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">899ee3b5-fdce-43f3-bbc4-f3e620420092</Data></Cell>
+<Cell><Data ss:Type="String">Slice pound cake slice crosswise in half forming 2 slices. Spread one slice of frozen pound cake with peanut butter and marshmallow cream; sprinkle with chocolate chips; top with second pound cake slice forming a sandwich.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">899ee3b5-fdce-43f3-bbc4-f3e620420092</Data></Cell>
+<Cell><Data ss:Type="String">Spray both sides of pound cake slices with cooking spray. Grill sandwich in a skillet over medium heat about 1-2 minutes per side or until crisp and toasted. OR, Place on a microwave-safe plate and heat sandwich 20-30 seconds or until chocolate chips are melted.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a5d3b296-9fda-4a8b-8122-9bebfe43522f</Data></Cell>
+<Cell><Data ss:Type="String">Trim the top, bottom and sides of the pound cake just enough to remove the golden brown pieces. Slice the trimmed pound cake into 1-inch cubes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a5d3b296-9fda-4a8b-8122-9bebfe43522f</Data></Cell>
+<Cell><Data ss:Type="String">Place cubes in a single layer on a cookie sheet. Freeze until firm, about 1-2 hours.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a5d3b296-9fda-4a8b-8122-9bebfe43522f</Data></Cell>
+<Cell><Data ss:Type="String">When ready to dip and decorate the bites, place each type of sprinkles, crushed cookies and colored sugars into separate bowls.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a5d3b296-9fda-4a8b-8122-9bebfe43522f</Data></Cell>
+<Cell><Data ss:Type="String">Place almond bark in a large glass bowl or measuring cup. Microwave on High for 90 seconds; stir. Continue microwaving in 15 second intervals, stirring after each, until melted and smooth.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a5d3b296-9fda-4a8b-8122-9bebfe43522f</Data></Cell>
+<Cell><Data ss:Type="String">Working quickly, dip each pound cake bite into the melted almond bark; sprinkle each with desired sprinkles, crushed cookies or sugar. Place back onto cookie sheet(s). Chill until firm, about 1 hour.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">97d56482-ae50-409e-978c-b96ad6e35945</Data></Cell>
+<Cell><Data ss:Type="String">Slice pound cake horizontally into 3 layers.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">97d56482-ae50-409e-978c-b96ad6e35945</Data></Cell>
+<Cell><Data ss:Type="String">Spread bottom layer with 1/4 cup chocolate hazelnut spread. Top with second layer. Spread with remaining 1/4 cup chocolate hazelnut spread. Top with remaining cake layer.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">97d56482-ae50-409e-978c-b96ad6e35945</Data></Cell>
+<Cell><Data ss:Type="String">Frost entire cake with thawed chocolate whipped topping frosting. Sprinkle top with shaved chocolate, if desired. Refrigerate until ready to serve.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">97d56482-ae50-409e-978c-b96ad6e35945</Data></Cell>
+<Cell><Data ss:Type="String">Cut into 8 slices, serve.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">333f7517-cb36-4a78-9738-904397271eca</Data></Cell>
+<Cell><Data ss:Type="String">Preheat oven to 350&#176;F. Cut pound cake into 1-inch cubes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">333f7517-cb36-4a78-9738-904397271eca</Data></Cell>
+<Cell><Data ss:Type="String">Whisk together eggs, coconut milk, milk, sugar and vanilla in a large bowl until blended.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">333f7517-cb36-4a78-9738-904397271eca</Data></Cell>
+<Cell><Data ss:Type="String">Stir in pound cake, chocolate chips and coconut; let stand 10 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">333f7517-cb36-4a78-9738-904397271eca</Data></Cell>
+<Cell><Data ss:Type="String">Pour mixture into a greased 8&#215;8-inch square baking dish. Bake 50-60 minutes or until knife inserted in center comes out clean.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">333f7517-cb36-4a78-9738-904397271eca</Data></Cell>
+<Cell><Data ss:Type="String">Garnish with almonds, if desired.</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>
