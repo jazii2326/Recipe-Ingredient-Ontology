@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">"
+<Styles> 
+ <Style ss:ID="Default" ss:Name="Normal"> 
+ <Alignment ss:Vertical="Bottom"/> 
+ <Borders/> 
+ <Font ss:FontName="Arial" x:Family="Swiss"/>
+ <Interior/>
+<NumberFormat/> 
+ <Protection/> 
+ </Style> 
+ <Style ss:ID="s62"> 
+ <Alignment ss:Vertical="Bottom"/> 
+ <Borders/> 
+ <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/></Style> 
+<Style ss:ID="s66"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/></Borders><Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1" ss:Size="10"/><Interior ss:Color="#DCE6F1" ss:Pattern="Solid"/></Style></Styles><Worksheet ss:Name="Dunkaroos">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">name</Column>
+<Column ss:Width="100">url</Column>
+<Column ss:Width="100">yield</Column>
+<Column ss:Width="100">calories</Column>
+<Column ss:Width="100">totalFatContent</Column>
+<Column ss:Width="100">saturatedFatContent</Column>
+<Column ss:Width="100">transFatContent</Column>
+<Column ss:Width="100">cholesterolContent</Column>
+<Column ss:Width="100">sodiumContent</Column>
+<Column ss:Width="100">totalCarbohydrateContent</Column>
+<Column ss:Width="100">dietaryFiberContent</Column>
+<Column ss:Width="100">totalSugarsContent</Column>
+<Column ss:Width="100">InclAddedSugarContent</Column>
+<Column ss:Width="100">proteinContent</Column>
+<Column ss:Width="100">ironContent</Column>
+<Column ss:Width="100">image</Column>
+<Column ss:Width="100">recipeIngredientHTML</Column>
+<Column ss:Width="100">servingSize</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">name</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">url</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">yield</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">calories</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">totalFatContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">saturatedFatContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">transFatContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">cholesterolContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">sodiumContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">totalCarbohydrateContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">dietaryFiberContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">totalSugarsContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">InclAddedSugarContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">proteinContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">ironContent</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">image</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">recipeIngredientHTML</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">servingSize</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Dunkaroos Vanilla Cookies and Vanilla Frosting with Rainbow Sprinkles</Data></Cell>
+<Cell><Data ss:Type="String">https://www.dunkaroos.com/products/dunkaroos-vanilla-cookies-and-vanilla-frosting-with-rainbow-sprinkles/</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">190</Data></Cell>
+<Cell><Data ss:Type="String">8</Data></Cell>
+<Cell><Data ss:Type="String">4</Data></Cell>
+<Cell><Data ss:Type="String">0g</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">95</Data></Cell>
+<Cell><Data ss:Type="String">29</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">18g</Data></Cell>
+<Cell><Data ss:Type="String">18</Data></Cell>
+<Cell><Data ss:Type="String">1g</Data></Cell>
+<Cell><Data ss:Type="String">.4</Data></Cell>
+<Cell><Data ss:Type="String">https://www.dunkaroos.com/wp-content/uploads/2020/04/Dunkaroos-Vanilla-Cookies-and-Vanilla-Frosting-with-Rainbow-Sprinkles-460x460-2.jpg</Data></Cell>
+<Cell><Data ss:Type="String">Vanilla Frosting with Rainbow Chips: Sugar, Vegetable Oil (palm, palm kernel, coconut), Water, Corn Syrup, Corn Starch, Nonfat Milk, Salt, Monoglycerides, Polysorbate 60, Sodium Stearoyl Lactylate, Sodium Acid Pyrophosphate, Modified Cellulose, Natural and Artificial Flavor, Soy Lecithin, Color (yellow 6 lake, red 40 lake, yellow 5 lake, blue 1 lake, yellow 5, blue 2 lake, yellow 6), Citric Acid. Freshness preserved by Potassium Sorbate.</Data></Cell>
+<Cell><Data ss:Type="String">1 tray with frosting (42g)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Dunkaroos Sugar Cookie Dough</Data></Cell>
+<Cell><Data ss:Type="String">https://www.dunkaroos.com/products/dunkaroos-sugar-cookie-dough/</Data></Cell>
+<Cell><Data ss:Type="String">6</Data></Cell>
+<Cell><Data ss:Type="String">170</Data></Cell>
+<Cell><Data ss:Type="String">7</Data></Cell>
+<Cell><Data ss:Type="String">3</Data></Cell>
+<Cell><Data ss:Type="String">0g</Data></Cell>
+<Cell><Data ss:Type="String">5</Data></Cell>
+<Cell><Data ss:Type="String">100</Data></Cell>
+<Cell><Data ss:Type="String">26</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">17g</Data></Cell>
+<Cell><Data ss:Type="String">17</Data></Cell>
+<Cell><Data ss:Type="String">1g</Data></Cell>
+<Cell><Data ss:Type="String">0.5</Data></Cell>
+<Cell><Data ss:Type="String">https://www.dunkaroos.com/wp-content/uploads/2020/11/image001-3.jpg</Data></Cell>
+<Cell><Data ss:Type="String">Frosting (sugar, high fructose corn syrup, palm oil, corn starch, water, corn syrup, nonfat milk, palm kernel oil, hydrogenated palm oil, coconut oil, salt, distilled monoglycerides, polysorbate 60, color [yellow lakes 5 &amp; 6, red lake 40, blue lakes 1 &amp; 2, yellows 5 &amp; 6 and other color added], modified cellulose, sodium stearoyl actylate,#&amp;?potassium sorbate [preservative], sodium acid pyrophosphate, soy lecithin, natural and artificial flavor, citric acid), Sugar, Enriched Flour Bleached (wheat flour, niacin, iron, thiamin mononitrate, riboflavin, folic acid), Palm Oil, Water, Canola Oil. Contains 2% or less of: Eggs, Baking Powder (baking soda, sodium aluminum phosphate), Salt, Corn Starch, Artificial Flavor.</Data></Cell>
+<Cell><Data ss:Type="String">1 Big Cookie with Frosting (41g)</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>
