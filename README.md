@@ -1,50 +1,23 @@
-CAPSTONE PROJECT-ABSTRACT
-This document is developed for a software development project that is mentioned below. The study is conducted by two students of Department of CS & IT of the University of Sargodha, Sargodha. The system under consideration will be produced as a new recipe ontology generation algorithm, by the aforementioned institution given the study yields positive results.
-
-
-
-
-README
-<RECIPE INGREDIENTS ONTOLOGY>
-
-
-
-
-PREPARED BY:
-
-QANDEEL ABBAS (BSITF17M038)
-MUHAMMAD EJAZ (BSITF17M008)
-BSIT (7TH-REG)
-SESSION 2017-2021
-
-
-SUBMITTED TO:
-
-MR. FAHAD MAQBOOL
-(PROJECT SUPERVISOR: MISS ASMA)
-DATED:
-SUNDAY, 21 FEBRUARY 2021
-
-
-DEPT OF CS & IT
-UNIVERSITY OF SARGODHA 
-SARGODHA, 40100
-
 
 ABSTRACT:
 
 A chef's success directly relates to the taste and nutritional values of recipes that he/she proposes.  Formulating new recipes is more of an art than a science. Machine Learning and commercial AI have proved their significance in many fields from the last few decades, including bioinformatics, medical imaging, and data mining. Similarly, machine-generated recipes are not out of the question, and one can develop computer programs that can float novel recipes rich in taste and nutritional values.  The major hurdle in such developments is the lack of resources in machine-readable ingredients, instructions, and nutritional values.  In this project, we aim to build an ingredient ontology that would be added and a progressive milestone towards building an Autochef.
+
 ABOUT RECIPES INGREDIENTS ONTOLOGY:
+
 The etymology of the word “ontology” consists of two words. One is “onto” which means “being” and the second is “Logia” which means “study”, and both are comprised of “study of being”. An ontology elucidates the correspondence between things. Ontology is a branch of knowledge that is used for improving disclosure between agents or reusing data models or knowledge blueprint. Ontology is a structure of operations within a domain, organized by associations in a system model. Ontologies are a group of affirmations written in a language like RDF that explains the connections between concepts and states logical rules for reasoning about them.
 Through the introduction of recipe ingredients ontologies, we can create a recipe that is the best among the bests. This computing uses smart algorithms such as RDF or by using OWL. The algorithm is applied to recipes and their respective ingredients, which in turn will produce new recipes based on the multiple smart combinations of these recipes and those new recipes will be better in both taste and nutrition in fact the best combination of its ingredients.
+
 GETTING STARTED:
 
 To evolve various recipes over the internet we need some way to collect all the recipe data. The technique we imply to gather all the recipe relevant data is data extraction and the tool we use for this purpose is Visual Web Ripper.
 
 INSTALLING VISUAL WEB RIPPER:
+
 Visual Web Ripper is a powerful web page scraper used to easily extract website data, such as product catalogs, classifieds, financial web sites or any other web site that contains information you may Excel, MySQL db file, SQL Lite db file.
 
 Data Extraction Using Visual Web Ripper and Recipes Script:
+
 Recipes Script generates out .rip file. In the script, we define the recipe model if present for the website. For script generation and execution of it according to requirements, we follow a specified schema that assists us in every step of data extraction and how we structure it during extraction for late use.
 First, we give it a template Page Area and save it, next we give it a Link that would help us continue to the next page and name them as “recipeCategoryList” and “recipeCategory” respectively. 
 
@@ -90,35 +63,14 @@ We will use the extracted database file in SQLite studio to export a .sql file o
 After the file has been successfully uploaded, we move towards the next phase which will be Data Consolidation.
 
 Recipe Schema and Naming Conventions:
+
 Throughout our journey of exploring recipes, we have come across various constituents of recipes, each of them enhancing their outlook and essence. The elements a recipe comprises, bestow a sense of soul to it. The core recipe constituents we have gathered so far and also mentioned in the provided schema are mentioned as follows:
 
 RECIPE PROPERTY	DESCRIPTION
-url	a recipe url that tells the address of the page where the recipe lies
-name
-	a recipe’s name identifies it
-image	a url that links us to the image showing what’s its final outlook like
-author	a person or organization, who produces the content of the recipe
-cookTime	Cook Time is the one that tells the duration it takes to cook a recipe
-prepTime	Prep Time would be the time to do all the initial preparations as per directions
-totalTime	Total Time is the time it took to perform all the instructions and complete the recipe
-marinateTime	Marinate time, is used in the recipes where meat takes time to get marinated
-recipeCuisine	Recipe Cuisine is the cuisine of the recipe, for example, Italian pasta
-recipeYield	Recipe Yield denotes how many people does a recipe serve
-yield	Yield to indicate the quantity it will produce
-cookingMethod	Cooking Method tells the procedure we undertake to cook the recipe i.e frying, steaming, baking, grilling, etc.
-commentCount	There is a Comment Count indicating the number of comments the recipe has received so far
-dateCreated	Date Created is the date on which recipe was created
-datePublished	Date Published is the date when the recipe was published and introduced to the public
-dateModified	Date Modified is the recent date when the recipe was edited
-keywords	Keywords are the tags that are used to search
-aggregateRating	Aggregate Rating represents the overall ratings of a recipe, it is calculated in the backend by taking an average of the ratings collected so far
-contentRating	Content rating, the official rating the recipe has gotten
-nutrition	Nutrition indicates the nutrient content a recipe consists of like calories, fat content, protein content, fiber content, and vitamins
-estimatedCost	Estimated cost shows the cost of raw materials or supplies
-recipeIngredients	Recipe Ingredients is the one representing a list of all the ingredients used to make the recipe
-recipeIngredient	Recipe Ingredient is the content showing a single ingredient from the ingredient list
-recipeInstructions	Recipe Instructions  are all the steps that make up the “how-to” part of the recipe, mainly the directions to follow
-step	step is a single direction from the recipe instructions list
+
+![10](https://user-images.githubusercontent.com/50656712/108616411-f6087880-742e-11eb-92fc-b2f869a10e0b.PNG)
+
+![11](https://user-images.githubusercontent.com/50656712/108616415-fe60b380-742e-11eb-9b37-be0e1e403223.PNG)
 
 RECIPE MODELS:
 While exploring recipes, the models of recipes we see never remain consistent. Studying a wide range of models and inspecting those models side by side, I would like to mention the commonly occurring models below:
@@ -153,133 +105,14 @@ Let’s discuss solutions to the challenges we have been facing:
 
 LINKS TO OUR EXTRACTED WEBSITES:
 
-FILE NAMES	WEBSITE URLS
 
-Cookiemadness.rip
-Cookiemadness.xml
-Cookiemadness.sql	http://cookiemadness.net
-Udupi-recipes.rip
-Udupi-recipes.xml
-Udupi-recipes.sql	http://udupi-recipes.com
-Unclebens.rip
-Unclebens.xml
-Unclebens.sql	https://unclebens.com/rice-recipe
-Inspiralizedrecipes.rip
-Inspiralizedrecipes.xml
-Inspiralizedrecipes.sql	https://www.inspiredtaste.net/recipe-index/
-Foodandwine.rip
-Foodandwine.xml
-Foodandwine.sql	https://www.foodandwine.com/recipes
-Finecooking.rip
-Finecooking.xml
-Finecooking.sql	https://www.finecooking.com/recipes-menus
-Zespri.rip
-Zespri.xml
-Zespri.sql	zespri.com
-Ruchiskitchen.rip
-Ruchiskitchen.xml
-Ruchiskitchen.sql	ruchiskitchen.com
-Vietworldkitchen.rip
-Vietworldkitchen.xml
-Vietworldkitchen.sql	vietworldkitchen.com
-Artichokes.rip
-Artichokes.xml
-Artichokes.sql	artichokes.org
-Foodmayhem.rip
-Foodmayhem.xml
-Foodmayhem.sql	foodmayhem.com
-Grillingcompanion.rip
-Grillingcompanion.xml
-Grillingcompanion.sql	grillingcompanion.com
-Perfectsmoothie.rip
-Perfectsmoothie.xml
-Perfectsmoothie.sql	perfectsmoothie.com
-Moms-mexican-recipes.rip
-Moms-mexican-recipes.xml
-Moms-mexican-recipes.sql	moms-mexican-recipes.com
-Homemade-chinese-soups.rip
-Homemade-chinese-soups.xml
-Homemade-chinese-soups.sql	homemade-chinese-soups.com
-Moomilk.rip
-Moomilk.xml
-Moomilk.sql	moomilk.com
-ile-maurice.tripod.rip
-ile-maurice.tripod.sql
-ile-maurice.tripod.xml	ile-maurice.tripod.com
-Africanfoods.rip
-Africanfoods.xml
-Africanfoods.sql	africanfoods.co.uk
-Deliciousdays.rip
-Deliciousdays.xml
-Deliciousdays.sql	deliciousdays.com
-Luckypeach.rip
-Luckypeach.xml
-Luckypeach.sql	luckypeach.com
-Kitchenproject.rip
-Kitchenproject.xml
-Kitchenproject.sql	kitchenproject.com
-Grabyourfork.rip
-Grabyourfork.xml
-Grabyourfork.sql	grabyourfork.blogspot.com
-Bbqdryrubs.rip
-Bbqdryrubs.xml
-Bbqdryrubs.sql	bbqdryrubs.com
-Cookingwithalia.rip
-Cookingwithalia.xml
-Cookingwithalia.sql	cookingwithalia.com
-Vegancoach.rip
-Vegancoach.xml
-Vegancoach.sql	vegancoach.com
-Bernardin.rip
-Bernardin.sql
-Bernardin.xml	bernardin.ca
-Chickenofthesea.rip
-Chickenofthesea.xml
-Chickenofthesea.sql	chickenofthesea.com
-Crisco.rip
-Crisco.xml
-Crisco.sql	crisco.com
-Foodchannel.rip
-Foodchannel.xml
-Foodchannel.sql	foodchannel.com
-Mygourmetconnection.rip
-Mygourmetconnection.xml
-Mygourmetconnection.sql	https://www.mygourmetconnection.com/recipe-index/
-Heatherchristo.rip
-Heatherchristo.xml
-Heatherchristo.sql	http://heatherchristo.com/ done
-Mexican-authentic-recipes.rip
-Mexican-authentic-recipes.xml
-Mexican-authentic-recipes.sql	http://mexican-authentic-recipes.com/ done
-Kindredcocktails.rip
-Kindredcocktails.xml
-Kindredcocktails.sql	kindredcocktails.com
-Makesushi.rip
-Makesushi.xml
-Makesushi.sql	makesushi.com
-Marialiberati.rip
-Marialiberati.xml
-Marialiberati.sql	marialiberati.com
-Kitchenkonfidence.rip
-Kitchenkonfidence.xml
-Kitchenkonfidence.sql	kitchenkonfidence.com
-Chocolatealchemy.rip
-Chocolatealchemy.xml
-Chocolatealchemy.sql	chocolatealchemy.com
-Thebrewerandthebaker.rip
-Thebrewerandthebaker.xml
-Thebrewerandthebaker.sql	thebrewerandthebaker.com
-Robinhood.rip
-Robinhood.xml
-Robinhood.sql	robinhood.ca
-Bbqqueens.rip
-Bbqqueens.xml
-Bbqqueens.sql	bbqqueens.com
-Steamingpot.rip
-Steamingpot.xml
-Steamingpot.sql	steamingpot.com
+![12](https://user-images.githubusercontent.com/50656712/108616477-63b4a480-742f-11eb-8299-31d1647545fe.PNG)
 
 
+![13](https://user-images.githubusercontent.com/50656712/108616481-6dd6a300-742f-11eb-8160-cd7024c512b1.PNG)
+
+
+![14](https://user-images.githubusercontent.com/50656712/108616488-78913800-742f-11eb-961a-6c4f04e0e5a5.PNG)
 
 
 
