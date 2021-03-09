@@ -1,22 +1,25 @@
 
-<b>ABSTRACT:</b>
+<u><b>ABSTRACT:</b></u>
 
 A chef's success directly relates to the taste and nutritional values of recipes that he/she proposes.  Formulating new recipes is more of an art than a science. Machine Learning and commercial AI have proved their significance in many fields from the last few decades, including bioinformatics, medical imaging, and data mining. Similarly, machine-generated recipes are not out of the question, and one can develop computer programs that can float novel recipes rich in taste and nutritional values.  The major hurdle in such developments is the lack of resources in machine-readable ingredients, instructions, and nutritional values.  In this project, we aim to build an ingredient ontology that would be added and a progressive milestone towards building an Autochef.
 
-ABOUT RECIPES INGREDIENTS ONTOLOGY:
+<u><b>ABOUT RECIPES INGREDIENTS ONTOLOGY:</b></u>
+
 
 The etymology of the word “ontology” consists of two words. One is “onto” which means “being” and the second is “Logia” which means “study”, and both are comprised of “study of being”. An ontology elucidates the correspondence between things. Ontology is a branch of knowledge that is used for improving disclosure between agents or reusing data models or knowledge blueprint. Ontology is a structure of operations within a domain, organized by associations in a system model. Ontologies are a group of affirmations written in a language like RDF that explains the connections between concepts and states logical rules for reasoning about them.
 Through the introduction of recipe ingredients ontologies, we can create a recipe that is the best among the bests. This computing uses smart algorithms such as RDF or by using OWL. The algorithm is applied to recipes and their respective ingredients, which in turn will produce new recipes based on the multiple smart combinations of these recipes and those new recipes will be better in both taste and nutrition in fact the best combination of its ingredients.
 
-GETTING STARTED:
+<u><b>GETTING STARTED:</b></u>
+
 
 To evolve various recipes over the internet we need some way to collect all the recipe data. The technique we imply to gather all the recipe relevant data is data extraction and the tool we use for this purpose is Visual Web Ripper.
 
-INSTALLING VISUAL WEB RIPPER:
+<u><b>INSTALLING VISUAL WEB RIPPER:
+</b></u>
 
 Visual Web Ripper is a powerful web page scraper used to easily extract website data, such as product catalogs, classifieds, financial web sites or any other web site that contains information you may Excel, MySQL db file, SQL Lite db file.
 
-Data Extraction Using Visual Web Ripper and Recipes Script:
+<u><b>Data Extraction Using Visual Web Ripper and Recipes Script:</b></u>
 
 Recipes Script generates out .rip file. In the script, we define the recipe model if present for the website. For script generation and execution of it according to requirements, we follow a specified schema that assists us in every step of data extraction and how we structure it during extraction for late use.
 First, we give it a template Page Area and save it, next we give it a Link that would help us continue to the next page and name them as “recipeCategoryList” and “recipeCategory” respectively. 
@@ -74,19 +77,21 @@ RECIPE PROPERTY	DESCRIPTION
 
 RECIPE MODELS:
 While exploring recipes, the models of recipes we see never remain consistent. Studying a wide range of models and inspecting those models side by side, I would like to mention the commonly occurring models below:
-•	Recipes by Category
-•	Recipes by Ingredients
-•	Recipes by Regions
-•	Recipes by Ethnicity
-•	Recipes by Diet
-•	Recipe by Cuisines
-•	Recipes by Courses
-•	Recipes by Occasions
-•	Recipes by Time of Day
-•	Recipes by Drinks
-•	Recipe Desserts
-•	Street Food
-•	Recipes by Everyday Meals
+<ul>
+ <li>Recipes by Category</li>
+ <li>Recipes by Ingredients</li>
+ <li>Recipes by Regions</li>
+ <li>Recipes by Ethnicity</li>
+ <li>Recipes by Diet</li>
+ <li>Recipe by Cuisines</li>
+ <li>Recipes by Courses</li>
+ <li>Recipes by Occasions</li>
+ <li>Recipes by Time of Day</li>
+ <li>Recipes by Drinks</li>
+ <li>Recipe Desserts</li>
+ <li>Street Food</li>
+ <li>Recipes by Everyday Meals</li>
+ </ul>
 
 EXTRACTION CHALLENGES:
 The extraction process isn’t quite easy as it seems and we face several challenges throughout our journey. Some of these challenges are:
