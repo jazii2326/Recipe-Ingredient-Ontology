@@ -1,25 +1,25 @@
 
-<b style="font-size:50px;">ABSTRACT:</b>
+<h1 style="font-size:50px;">ABSTRACT:</h1>
 
 A chef's success directly relates to the taste and nutritional values of recipes that he/she proposes.  Formulating new recipes is more of an art than a science. Machine Learning and commercial AI have proved their significance in many fields from the last few decades, including bioinformatics, medical imaging, and data mining. Similarly, machine-generated recipes are not out of the question, and one can develop computer programs that can float novel recipes rich in taste and nutritional values.  The major hurdle in such developments is the lack of resources in machine-readable ingredients, instructions, and nutritional values.  In this project, we aim to build an ingredient ontology that would be added and a progressive milestone towards building an Autochef.
 
-<u><b>ABOUT RECIPES INGREDIENTS ONTOLOGY:</b></u>
+<h1>ABOUT RECIPES INGREDIENTS ONTOLOGY:</h1>
 
 
 The etymology of the word “ontology” consists of two words. One is “onto” which means “being” and the second is “Logia” which means “study”, and both are comprised of “study of being”. An ontology elucidates the correspondence between things. Ontology is a branch of knowledge that is used for improving disclosure between agents or reusing data models or knowledge blueprint. Ontology is a structure of operations within a domain, organized by associations in a system model. Ontologies are a group of affirmations written in a language like RDF that explains the connections between concepts and states logical rules for reasoning about them.
 Through the introduction of recipe ingredients ontologies, we can create a recipe that is the best among the bests. This computing uses smart algorithms such as RDF or by using OWL. The algorithm is applied to recipes and their respective ingredients, which in turn will produce new recipes based on the multiple smart combinations of these recipes and those new recipes will be better in both taste and nutrition in fact the best combination of its ingredients.
 
-<u><b>GETTING STARTED:</b></u>
+<h1>GETTING STARTED:</h1>
 
 
 To evolve various recipes over the internet we need some way to collect all the recipe data. The technique we imply to gather all the recipe relevant data is data extraction and the tool we use for this purpose is Visual Web Ripper.
 
-<u><b>INSTALLING VISUAL WEB RIPPER:
-</b></u>
+<h1>INSTALLING VISUAL WEB RIPPER:
+</h1>
 
 Visual Web Ripper is a powerful web page scraper used to easily extract website data, such as product catalogs, classifieds, financial web sites or any other web site that contains information you may Excel, MySQL db file, SQL Lite db file.
 
-<u><b>Data Extraction Using Visual Web Ripper and Recipes Script:</b></u>
+<h1>Data Extraction Using Visual Web Ripper and Recipes Script:</h1>
 
 Recipes Script generates out .rip file. In the script, we define the recipe model if present for the website. For script generation and execution of it according to requirements, we follow a specified schema that assists us in every step of data extraction and how we structure it during extraction for late use.
 First, we give it a template Page Area and save it, next we give it a Link that would help us continue to the next page and name them as “recipeCategoryList” and “recipeCategory” respectively. 
@@ -65,7 +65,7 @@ We will use the extracted database file in SQLite studio to export a .sql file o
  
 After the file has been successfully uploaded, we move towards the next phase which will be Data Consolidation.
 
-Recipe Schema and Naming Conventions:
+<h1>Recipe Schema and Naming Conventions:</h1>
 
 Throughout our journey of exploring recipes, we have come across various constituents of recipes, each of them enhancing their outlook and essence. The elements a recipe comprises, bestow a sense of soul to it. The core recipe constituents we have gathered so far and also mentioned in the provided schema are mentioned as follows:
 
