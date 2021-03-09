@@ -126,4 +126,4 @@ Let’s discuss solutions to the challenges we have been facing:
 
 
 
-<h1><center>THANK YOU</center></h1>
+<h1 style="text-align:center";>THANK YOU</h1>
