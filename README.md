@@ -110,8 +110,7 @@ Let’s discuss solutions to the challenges we have been facing:
  <li>If an image has a different path, we inspect it in the browser and set its XPath manually.</li>
  <li>If images can’t be picked on during extraction, we either select “link” from the list or select src in the “attributes” or do the content transformation.</li>
  <li>To overcome the challenge of ingredients and instructions subheadings being in a single div we select list type “text”, add line breaks, and content transform it.</li>
-•	If we want to use ripper as we do in the browser, we select the option “navigate in the browser” option.
- <li></li>
+ <li>If we want to use ripper as we do in the browser, we select the option “navigate in the browser” option.</li>
  </ul>
 
 <h1>LINKS TO OUR EXTRACTED WEBSITES:</h1>
@@ -127,4 +126,4 @@ Let’s discuss solutions to the challenges we have been facing:
 
 
 
-<center><h1>THANK YOU</h1></center>
+<h1><center>THANK YOU</center></h1>
