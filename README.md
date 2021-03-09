@@ -93,22 +93,28 @@ While exploring recipes, the models of recipes we see never remain consistent. S
  <li>Recipes by Everyday Meals</li>
  </ul>
 
-EXTRACTION CHALLENGES:
+<h1>EXTRACTION CHALLENGES:</h1>
 The extraction process isn’t quite easy as it seems and we face several challenges throughout our journey. Some of these challenges are:
-•	The recipe content in our browser doesn’t appear in ripper. 
-•	An image has a different path than the others.
-•	Even if the script is generated right, sometimes it may not appear in extraction.
-•	Ingredients or Instructions appear in subheadings and those subheadings can only be selected as a single div.
-•	An ad appears in the ripper and we can’t casually treat web pages on ripper like we do in the browser.
-SOLUTIONS TO EXTRACTION CHALLENGES:
-Let’s discuss solutions to the challenges we have been facing:
-•	If the content of the web page doesn’t appear in the ripper, we review the “tree view” of the page and compare it with its inspect mode.
-•	If an image has a different path, we inspect it in the browser and set its XPath manually.
-•	If images can’t be picked on during extraction, we either select “link” from the list or select src in the “attributes” or do the content transformation.
-•	To overcome the challenge of ingredients and instructions subheadings being in a single div we select list type “text”, add line breaks, and content transform it.
-•	If we want to use ripper as we do in the browser, we select the option “navigate in the browser” option.
+<ul>
+ <li>The recipe content in our browser doesn’t appear in ripper.</li>
+ <li>An image has a different path than the others.</li>
+ <li>Even if the script is generated right, sometimes it may not appear in extraction.</li>
+ <li>Ingredients or Instructions appear in subheadings and those subheadings can only be selected as a single div.</li>
+ <li>An ad appears in the ripper and we can’t casually treat web pages on ripper like we do in the browser.</li>
+ </ul>
 
-LINKS TO OUR EXTRACTED WEBSITES:
+<h1>SOLUTIONS TO EXTRACTION CHALLENGES:</h1>
+Let’s discuss solutions to the challenges we have been facing:
+<ul>
+ <li>If the content of the web page doesn’t appear in the ripper, we review the “tree view” of the page and compare it with its inspect mode.</li>
+ <li>If an image has a different path, we inspect it in the browser and set its XPath manually.</li>
+ <li>If images can’t be picked on during extraction, we either select “link” from the list or select src in the “attributes” or do the content transformation.</li>
+ <li>To overcome the challenge of ingredients and instructions subheadings being in a single div we select list type “text”, add line breaks, and content transform it.</li>
+•	If we want to use ripper as we do in the browser, we select the option “navigate in the browser” option.
+ <li></li>
+ </ul>
+
+<h1>LINKS TO OUR EXTRACTED WEBSITES:</h1>
 
 
 ![12](https://user-images.githubusercontent.com/50656712/108616477-63b4a480-742f-11eb-8299-31d1647545fe.PNG)
@@ -121,4 +127,4 @@ LINKS TO OUR EXTRACTED WEBSITES:
 
 
 
-THANK YOU
+<center><h1>THANK YOU</h1></center>
